@@ -1,0 +1,55 @@
+{
+ "game": "n100f",
+ "measuredAt": "2026-10-27T19:52:22Z",
+ "modules": {
+  "contributors": null,
+  "map": "map.json"
+ },
+ "schema": 1,
+ "source": {
+  "committedAt": "2026-10-27T19:51:46Z",
+  "revision": "d07e2f907fc245a49a364ec2c879e3842b576a1f",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40572902731",
+  "title": "Add explicit disc targets with scoped CI and report-v2 (#73)",
+  "url": "https://github.com/mitsevox/n100f/commit/d07e2f907fc245a49a364ec2c879e3842b576a1f"
+ },
+ "summary": {
+  "code": {
+   "fuzzy": 292438.67991128,
+   "linked": 213044,
+   "matched": 260640,
+   "total": 1618968
+  },
+  "data": {
+   "fuzzy": 183267.62969,
+   "linked": 131316,
+   "matched": 157536,
+   "total": 870056
+  },
+  "files": {
+   "exact": 119,
+   "named": 374,
+   "total": 519
+  },
+  "functions": {
+   "exact": 1253,
+   "named": 2595,
+   "total": 4746
+  }
+ },
+ "target": "GIHE78-rev0",
+ "tools": [
+  {
+   "name": "build-environment",
+   "version": "ghcr.io/mitsevox/n100f-build@sha256:502c957567a21fd77283fad6d437ae3b6cf19856a8b456157040b6d36cb83773"
+  },
+  {
+   "name": "dtk",
+   "version": "v1.8.3 + rom-copy-info patch sha256:09125d19ff103165c9dbd397543381a269b44eb84061c8418e1870555fb1adcf"
+  },
+  {
+   "name": "objdiff",
+   "version": "v3.6.1"
+  }
+ ]
+}

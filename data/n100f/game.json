@@ -1,0 +1,38 @@
+{
+ "artwork": {
+  "cover": "cover.webp",
+  "height": 1600,
+  "width": 1112
+ },
+ "console": "GameCube",
+ "contributions": {
+  "accepting": false
+ },
+ "defaultTarget": "GIHE78-rev0",
+ "repository": "mitsevox/n100f",
+ "schema": 1,
+ "shortTitle": "Night of 100 Frights",
+ "slug": "n100f",
+ "targets": [
+  {
+   "id": "GIHE78-rev0",
+   "label": "GIHE78",
+   "platform": "gamecube",
+   "region": "USA",
+   "revision": "0",
+   "sha1": "c77fb29d39b5898933e8ef4d1ccd2ddac404554e",
+   "status": "active"
+  },
+  {
+   "id": "GIHE78-rev1",
+   "label": "GIHE78",
+   "platform": "gamecube",
+   "region": "USA",
+   "revision": "1",
+   "sha1": "cc84bc42b1054b572b5bb65968cf80b71ff41d0b",
+   "status": "archived"
+  }
+ ],
+ "title": "Scooby-Doo! Night of 100 Frights",
+ "year": "2002"
+}
