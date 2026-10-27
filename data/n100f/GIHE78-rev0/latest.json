@@ -1,17 +1,17 @@
 {
  "game": "n100f",
- "measuredAt": "2026-10-27T19:52:22Z",
+ "measuredAt": "2026-10-27T23:41:49Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-27T19:51:46Z",
-  "revision": "d07e2f907fc245a49a364ec2c879e3842b576a1f",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40572902731",
-  "title": "Add explicit disc targets with scoped CI and report-v2 (#73)",
-  "url": "https://github.com/mitsevox/n100f/commit/d07e2f907fc245a49a364ec2c879e3842b576a1f"
+  "committedAt": "2026-10-27T23:41:09Z",
+  "revision": "5880dd1c7d6de897b75a5813c7b8f7f7f5720026",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40603805435",
+  "title": "Publish each main measurement to the site's data repository (#77)",
+  "url": "https://github.com/mitsevox/n100f/commit/5880dd1c7d6de897b75a5813c7b8f7f7f5720026"
  },
  "summary": {
   "code": {
