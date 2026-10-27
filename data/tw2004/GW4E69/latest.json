@@ -1,0 +1,55 @@
+{
+ "game": "tw2004",
+ "measuredAt": "2026-10-26T20:49:56Z",
+ "modules": {
+  "contributors": null,
+  "map": "map.json"
+ },
+ "schema": 1,
+ "source": {
+  "committedAt": "2026-10-26T20:48:31Z",
+  "revision": "11985bcd413b9da33d0ae58de6877e0906dc6a59",
+  "runUrl": "https://github.com/mitsevox/tw2004/actions/runs/40398926691",
+  "title": "Merge pull request #91 from mitsevox/codex/portfolio-notifier",
+  "url": "https://github.com/mitsevox/tw2004/commit/11985bcd413b9da33d0ae58de6877e0906dc6a59"
+ },
+ "summary": {
+  "code": {
+   "fuzzy": 1550724.0,
+   "linked": 1550724,
+   "matched": 1550724,
+   "total": 1550724
+  },
+  "data": {
+   "fuzzy": null,
+   "linked": 1078855,
+   "matched": 1078831,
+   "total": 1078855
+  },
+  "files": {
+   "exact": 62,
+   "named": 238,
+   "total": 253
+  },
+  "functions": {
+   "exact": 7647,
+   "named": 6715,
+   "total": 7647
+  }
+ },
+ "target": "GW4E69",
+ "tools": [
+  {
+   "name": "build-container",
+   "version": "ghcr.io/mitsevox/tw2004-build:main"
+  },
+  {
+   "name": "decomp-toolkit",
+   "version": "v1.8.3"
+  },
+  {
+   "name": "objdiff",
+   "version": "v3.6.1"
+  }
+ ]
+}

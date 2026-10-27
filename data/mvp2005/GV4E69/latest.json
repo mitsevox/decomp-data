@@ -1,0 +1,67 @@
+{
+ "game": "mvp2005",
+ "measuredAt": "2026-10-26T20:49:10Z",
+ "modules": {
+  "contributors": null,
+  "map": "map.json"
+ },
+ "schema": 1,
+ "source": {
+  "committedAt": "2026-10-26T20:48:27Z",
+  "revision": "f0af8a9a4382c04c19d93bb67938ed553fd322d9",
+  "runUrl": "https://github.com/mitsevox/mvp2005/actions/runs/40398915904",
+  "title": "Merge pull request #68 from mitsevox/codex/portfolio-notifier",
+  "url": "https://github.com/mitsevox/mvp2005/commit/f0af8a9a4382c04c19d93bb67938ed553fd322d9"
+ },
+ "summary": {
+  "code": {
+   "fuzzy": 254689.079997,
+   "linked": 250060,
+   "matched": 253740,
+   "total": 5896192
+  },
+  "data": {
+   "fuzzy": 159322.05250668,
+   "linked": 161956,
+   "matched": 151608,
+   "total": 1369112
+  },
+  "files": {
+   "exact": 167,
+   "named": 228,
+   "total": 305
+  },
+  "functions": {
+   "exact": 1127,
+   "named": 1211,
+   "total": 24150
+  }
+ },
+ "target": "GV4E69",
+ "tools": [
+  {
+   "name": "binutils",
+   "version": "2.42-2"
+  },
+  {
+   "name": "compilers",
+   "version": "20251118"
+  },
+  {
+   "name": "dtk",
+   "version": "v1.8.3"
+  },
+  {
+   "name": "objdiff",
+   "version": "v3.6.1"
+  },
+  {
+   "name": "sjiswrap",
+   "version": "v1.2.2"
+  },
+  {
+   "name": "wibo",
+   "version": "1.0.3"
+  }
+ ]
+}

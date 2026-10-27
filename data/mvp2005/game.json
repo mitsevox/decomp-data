@@ -1,0 +1,29 @@
+{
+ "artwork": {
+  "cover": "cover.webp",
+  "height": 905,
+  "width": 640
+ },
+ "console": "GameCube",
+ "contributions": {
+  "accepting": false
+ },
+ "defaultTarget": "GV4E69",
+ "repository": "mitsevox/mvp2005",
+ "schema": 1,
+ "shortTitle": "MVP Baseball 2005",
+ "slug": "mvp2005",
+ "targets": [
+  {
+   "id": "GV4E69",
+   "label": "GV4E69",
+   "platform": "gamecube",
+   "region": null,
+   "revision": null,
+   "sha1": "da6becdbea614d03c4b5eae9f8a0fb08e0a184dd",
+   "status": "active"
+  }
+ ],
+ "title": "MVP Baseball 2005",
+ "year": "2005"
+}

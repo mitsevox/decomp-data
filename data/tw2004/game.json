@@ -1,0 +1,29 @@
+{
+ "artwork": {
+  "cover": "cover.webp",
+  "height": 908,
+  "width": 640
+ },
+ "console": "GameCube",
+ "contributions": {
+  "accepting": false
+ },
+ "defaultTarget": "GW4E69",
+ "repository": "mitsevox/tw2004",
+ "schema": 1,
+ "shortTitle": "Tiger Woods 2004",
+ "slug": "tw2004",
+ "targets": [
+  {
+   "id": "GW4E69",
+   "label": "GW4E69",
+   "platform": "gamecube",
+   "region": null,
+   "revision": null,
+   "sha1": "bbbc55485e51973931dee169e7bf87bc7379223f",
+   "status": "active"
+  }
+ ],
+ "title": "Tiger Woods PGA Tour 2004",
+ "year": "2003"
+}

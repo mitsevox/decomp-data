@@ -1,0 +1,47 @@
+{
+ "game": "nflstreet2",
+ "measuredAt": "2026-10-26T20:57:37.624145+00:00",
+ "modules": {
+  "contributors": "contributors.json",
+  "map": "map.json"
+ },
+ "schema": 1,
+ "source": {
+  "committedAt": "2026-10-26T20:54:21Z",
+  "revision": "fd98b7a558e45ea93121a4f960cab719e1d37b2a",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/40399766438",
+  "title": "Notify shared portfolio after successful main reports (#1136)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/fd98b7a558e45ea93121a4f960cab719e1d37b2a"
+ },
+ "summary": {
+  "code": {
+   "fuzzy": 2274604.068379072,
+   "linked": 675480,
+   "matched": 1774688,
+   "total": 2648352
+  },
+  "data": {
+   "fuzzy": 707549.34911959,
+   "linked": 612415,
+   "matched": 677677,
+   "total": 1460833
+  },
+  "files": {
+   "exact": 2,
+   "named": 218,
+   "total": 688
+  },
+  "functions": {
+   "exact": 12234,
+   "named": 2513,
+   "total": 14157
+  }
+ },
+ "target": "GN7E69",
+ "tools": [
+  {
+   "name": "build-environment",
+   "version": "ghcr.io/mitsevox/nflstreet2-build@sha256:2b4967b77a5d74fb4575ec522ca0a60d8769605e7f5c9c162fb4e55959250aae"
+  }
+ ]
+}
