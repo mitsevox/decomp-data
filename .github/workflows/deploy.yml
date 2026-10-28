@@ -29,6 +29,20 @@ jobs:
         with:
           ref: main
           persist-credentials: false
+      # Covers are committed full size; the site shows a 360px-wide thumbnail generated here,
+      # so nobody makes thumbnails by hand and the full cover stays the single source.
+      - name: Generate cover thumbnails
+        run: |
+          python3 -m pip install --quiet pillow==11.0.0
+          python3 - <<'PY'
+          from pathlib import Path
+          from PIL import Image
+          for cover in Path('data').glob('*/cover.webp'):
+              image = Image.open(cover)
+              image.thumbnail((360, 100000))
+              image.save(cover.with_name('cover-thumb.webp'), 'WEBP', quality=82)
+              print(cover.parent.name, image.size)
+          PY
       - uses: actions/upload-pages-artifact@98ef48e41587a300b82de4cf298aa98b57b2faae
         with:
           path: .
