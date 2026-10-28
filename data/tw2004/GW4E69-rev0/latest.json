@@ -1,17 +1,21 @@
 {
+ "digests": {
+  "history.json": "969011e252c7f904",
+  "map.json": "53bc0065004c5150"
+ },
  "game": "tw2004",
- "measuredAt": "2026-10-28T05:08:54Z",
+ "measuredAt": "2026-10-28T13:08:26Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T05:08:01Z",
-  "revision": "5f0027fa0dd241308b3b6135984fb19381799ff0",
-  "runUrl": "https://github.com/mitsevox/tw2004/actions/runs/40636199713",
-  "title": "Merge pull request #95 from mitsevox/claude/general-discussion-o6243s",
-  "url": "https://github.com/mitsevox/tw2004/commit/5f0027fa0dd241308b3b6135984fb19381799ff0"
+  "committedAt": "2026-10-28T13:07:29Z",
+  "revision": "3730ac9a8250d15cf1f601555fa9fd5256848544",
+  "runUrl": "https://github.com/mitsevox/tw2004/actions/runs/40693602335",
+  "title": "Merge pull request #96 from mitsevox/kit-sync/2026-10-28",
+  "url": "https://github.com/mitsevox/tw2004/commit/3730ac9a8250d15cf1f601555fa9fd5256848544"
  },
  "summary": {
   "code": {
