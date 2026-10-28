@@ -1,21 +1,26 @@
 {
+ "digests": {
+  "contributors.json": "61077ea592b339ad",
+  "history.json": "9bb396590f3a2572",
+  "map.json": "62409e941b9c0f52"
+ },
  "game": "nflstreet2",
- "measuredAt": "2026-10-28T06:21:45Z",
+ "measuredAt": "2026-10-28T13:43:18Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T06:18:29Z",
-  "revision": "f4bc78f8ecd42a46a70c94ac53a180250f54d6da",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/40643056702",
-  "title": "Bring nflstreet2 to the decomp standard (GN7E69-rev0) (#1161)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/f4bc78f8ecd42a46a70c94ac53a180250f54d6da"
+  "committedAt": "2026-10-28T13:40:06Z",
+  "revision": "021284ab219bae850d90cb132be3ee58d9c832ca",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/40698551186",
+  "title": "Kit sync 2026-10-28: report check, publish environment, verified tools, second-target tools (GN7E69-rev0) (#1162)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/021284ab219bae850d90cb132be3ee58d9c832ca"
  },
  "summary": {
   "code": {
-   "fuzzy": 2273838.040717072,
+   "fuzzy": 2273838.040717071,
    "linked": 673428,
    "matched": 1774688,
    "total": 2648352
