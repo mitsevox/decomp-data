@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "e9dcba3ec714be9a",
+  "history.json": "aa2406f46162ed50",
   "map.json": "5f94c8ac5811e826"
  },
  "game": "n100f",
- "measuredAt": "2026-10-28T21:42:02Z",
+ "measuredAt": "2026-10-28T21:45:22Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T21:41:05Z",
-  "revision": "30796c890d2579cadd3ef19138c1a9e1709df26a",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40773981501",
-  "title": "RenderWare round 9: rpskin, rpcollis (+34 exact, GIHE78-rev0) (#139)",
-  "url": "https://github.com/mitsevox/n100f/commit/30796c890d2579cadd3ef19138c1a9e1709df26a"
+  "committedAt": "2026-10-28T21:44:37Z",
+  "revision": "55e0f24ed2c11008fd2ff703b96376b42f04a857",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40774454673",
+  "title": "CI: fail on stale split reports (tools/splits/check_recover.py, GIHE78-rev0) (#140)",
+  "url": "https://github.com/mitsevox/n100f/commit/55e0f24ed2c11008fd2ff703b96376b42f04a857"
  },
  "summary": {
   "code": {
