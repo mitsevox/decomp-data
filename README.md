@@ -9,6 +9,8 @@ documented in that repository's `contract/README.md`. A bad publish is undone wi
 
 Edit a measurement file by hand only to correct published data, and only by the procedure in the
 wiki's [Publishing](https://mitsevox.github.io/wiki/publishing/) chapter, "Correcting published
-data": edit, run `publish.py reseal` so `latest.json` names the corrected file's new digest, then
-check the tree with both readers (`tools/check_data_tree.py` in the site repository) before the
-pull request merges.
+data". In short: edit; run `publish.py reseal`, which rewrites the digests in `latest.json` and
+runs the publisher's check; run `tools/check_data_tree.py` from the site repository, the page's
+own validator; open a pull request that states the reason and merge it only when both readers
+accept; then run `tools/check_data_tree.py` again on a fresh clone of the merged branch, since this
+repository has no CI of its own.
