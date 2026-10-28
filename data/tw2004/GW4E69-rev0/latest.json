@@ -1,17 +1,17 @@
 {
  "game": "tw2004",
- "measuredAt": "2026-10-28T03:56:59Z",
+ "measuredAt": "2026-10-28T04:18:22Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T03:56:12Z",
-  "revision": "89265ec04f7cb5b2d7c4c3dcfd8f7eb2b6912b68",
-  "runUrl": "https://github.com/mitsevox/tw2004/actions/runs/40629474322",
-  "title": "Merge pull request #93 from mitsevox/claude/general-discussion-o6243s",
-  "url": "https://github.com/mitsevox/tw2004/commit/89265ec04f7cb5b2d7c4c3dcfd8f7eb2b6912b68"
+  "committedAt": "2026-10-28T04:17:32Z",
+  "revision": "732102e4d5a525a7bf9c4a2e6fdc7d0aadaec9cc",
+  "runUrl": "https://github.com/mitsevox/tw2004/actions/runs/40631498982",
+  "title": "Merge pull request #94 from mitsevox/claude/general-discussion-o6243s",
+  "url": "https://github.com/mitsevox/tw2004/commit/732102e4d5a525a7bf9c4a2e6fdc7d0aadaec9cc"
  },
  "summary": {
   "code": {
