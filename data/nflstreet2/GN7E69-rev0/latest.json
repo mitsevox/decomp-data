@@ -1,35 +1,35 @@
 {
  "game": "nflstreet2",
- "measuredAt": "2026-10-26T20:57:37.624145+00:00",
+ "measuredAt": "2026-10-28T06:21:45Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-26T20:54:21Z",
-  "revision": "fd98b7a558e45ea93121a4f960cab719e1d37b2a",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/40399766438",
-  "title": "Notify shared portfolio after successful main reports (#1136)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/fd98b7a558e45ea93121a4f960cab719e1d37b2a"
+  "committedAt": "2026-10-28T06:18:29Z",
+  "revision": "f4bc78f8ecd42a46a70c94ac53a180250f54d6da",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/40643056702",
+  "title": "Bring nflstreet2 to the decomp standard (GN7E69-rev0) (#1161)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/f4bc78f8ecd42a46a70c94ac53a180250f54d6da"
  },
  "summary": {
   "code": {
-   "fuzzy": 2274604.068379072,
-   "linked": 675480,
+   "fuzzy": 2273838.040717072,
+   "linked": 673428,
    "matched": 1774688,
    "total": 2648352
   },
   "data": {
    "fuzzy": 707549.34911959,
-   "linked": 612415,
+   "linked": 612004,
    "matched": 677677,
    "total": 1460833
   },
   "files": {
-   "exact": 2,
-   "named": 218,
-   "total": 688
+   "exact": 461,
+   "named": 476,
+   "total": 712
   },
   "functions": {
    "exact": 12234,
@@ -41,7 +41,19 @@
  "tools": [
   {
    "name": "build-environment",
-   "version": "ghcr.io/mitsevox/nflstreet2-build@sha256:2b4967b77a5d74fb4575ec522ca0a60d8769605e7f5c9c162fb4e55959250aae"
+   "version": "ghcr.io/mitsevox/nflstreet2-build@sha256:2b506e071fd65979ec80b9e49052a8bcbc842853a8eb79ed80e35bc6a4f936cf"
+  },
+  {
+   "name": "dtk",
+   "version": "v1.8.4"
+  },
+  {
+   "name": "binutils",
+   "version": "2.42-2"
+  },
+  {
+   "name": "objdiff",
+   "version": "v3.8.2"
   }
  ]
 }
