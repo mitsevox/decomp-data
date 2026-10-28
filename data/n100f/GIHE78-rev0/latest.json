@@ -1,38 +1,38 @@
 {
  "game": "n100f",
- "measuredAt": "2026-10-28T04:47:43Z",
+ "measuredAt": "2026-10-28T04:49:42Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T04:47:10Z",
-  "revision": "97a9ca983b9339d33e2791a1083ae7943797f909",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40634271889",
-  "title": "Evidence: one unit row each for binkngc.c and binkread.c (#91)",
-  "url": "https://github.com/mitsevox/n100f/commit/97a9ca983b9339d33e2791a1083ae7943797f909"
+  "committedAt": "2026-10-28T04:49:08Z",
+  "revision": "9ed7122a5e2b4f231cfeb60edb12f4a8ef5172b2",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40634453356",
+  "title": "Import binkread.c, Bink's public API (47 of 53 functions exact) (#83)",
+  "url": "https://github.com/mitsevox/n100f/commit/9ed7122a5e2b4f231cfeb60edb12f4a8ef5172b2"
  },
  "summary": {
   "code": {
-   "fuzzy": 368796.2804768,
+   "fuzzy": 385393.24045068,
    "linked": 268388,
-   "matched": 336272,
+   "matched": 348240,
    "total": 1618968
   },
   "data": {
-   "fuzzy": 190288.9014464,
+   "fuzzy": 190652.764326296,
    "linked": 136292,
-   "matched": 164088,
+   "matched": 164388,
    "total": 870056
   },
   "files": {
    "exact": 165,
    "named": 392,
-   "total": 529
+   "total": 528
   },
   "functions": {
-   "exact": 1464,
+   "exact": 1511,
    "named": 2677,
    "total": 4746
   }
