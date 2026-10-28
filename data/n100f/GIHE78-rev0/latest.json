@@ -1,17 +1,17 @@
 {
  "game": "n100f",
- "measuredAt": "2026-10-28T05:08:16Z",
+ "measuredAt": "2026-10-28T05:24:46Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T05:07:36Z",
-  "revision": "2a7ba7e7bac2c1e47550a09415a8cdac40d01451",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40636158529",
-  "title": "Kit sync: contributor credits (off here) (#92)",
-  "url": "https://github.com/mitsevox/n100f/commit/2a7ba7e7bac2c1e47550a09415a8cdac40d01451"
+  "committedAt": "2026-10-28T05:24:06Z",
+  "revision": "4fd932496da1717ce6224498c5efbb5d9d17718d",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40637784055",
+  "title": "recover.py: count loads by unsplit-unit functions as crossings (GIHE78-rev0) (#93)",
+  "url": "https://github.com/mitsevox/n100f/commit/4fd932496da1717ce6224498c5efbb5d9d17718d"
  },
  "summary": {
   "code": {
