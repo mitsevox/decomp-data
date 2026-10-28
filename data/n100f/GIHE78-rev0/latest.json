@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "5a2970863eb9a419",
+  "history.json": "31af154b96b69d97",
   "map.json": "7b1ddb894068094f"
  },
  "game": "n100f",
- "measuredAt": "2026-10-28T19:44:13Z",
+ "measuredAt": "2026-10-28T20:01:34Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T19:43:25Z",
-  "revision": "9c8f476cd9cebe2d34bfe94c3b265e6912b0a0e0",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40756847710",
-  "title": "Link unchanged Matching units on rev1 (GIHE78-rev0, GIHE78-rev1) (#126)",
-  "url": "https://github.com/mitsevox/n100f/commit/9c8f476cd9cebe2d34bfe94c3b265e6912b0a0e0"
+  "committedAt": "2026-10-28T20:00:28Z",
+  "revision": "954587e782dd7a82167c9778f21349bdc8aa5ca6",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40759386390",
+  "title": "Link zGroup, zSFX, zTimer on GIHE78-rev1; add tools/link_candidates.py (GIHE78-rev0, GIHE78-rev1) (#128)",
+  "url": "https://github.com/mitsevox/n100f/commit/954587e782dd7a82167c9778f21349bdc8aa5ca6"
  },
  "summary": {
   "code": {
