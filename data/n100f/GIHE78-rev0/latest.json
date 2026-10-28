@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "a4f58eb0fc451642",
+  "history.json": "11086e0b442e0676",
   "map.json": "2f47e399aa353fb3"
  },
  "game": "n100f",
- "measuredAt": "2026-10-28T13:49:05Z",
+ "measuredAt": "2026-10-28T14:02:02Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T13:48:16Z",
-  "revision": "9806e405a2ecfc6ac12bd55c28bc7f3f817454fb",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40699811661",
-  "title": "Kit sync 2026-10-28: report check, publish environment, verified tools, second-target tools (GIHE78-rev0) (#117)",
-  "url": "https://github.com/mitsevox/n100f/commit/9806e405a2ecfc6ac12bd55c28bc7f3f817454fb"
+  "committedAt": "2026-10-28T13:59:36Z",
+  "revision": "2eca1907b9bbc8f3cca37ef0c1f5561c13ef1a2d",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40701878586",
+  "title": "Docs: the GIHE78-rev1 onboarding checklist (GIHE78-rev0, GIHE78-rev1) (#114)",
+  "url": "https://github.com/mitsevox/n100f/commit/2eca1907b9bbc8f3cca37ef0c1f5561c13ef1a2d"
  },
  "summary": {
   "code": {
