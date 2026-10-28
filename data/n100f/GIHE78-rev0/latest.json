@@ -1,17 +1,17 @@
 {
  "game": "n100f",
- "measuredAt": "2026-10-28T05:02:23Z",
+ "measuredAt": "2026-10-28T05:08:16Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T05:01:45Z",
-  "revision": "eafb9b36f5092d626a5f4ea0f5b513f459861e8b",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40635603624",
-  "title": "Kit sync: shared AGENTS header, tier check, provenance row (#89)",
-  "url": "https://github.com/mitsevox/n100f/commit/eafb9b36f5092d626a5f4ea0f5b513f459861e8b"
+  "committedAt": "2026-10-28T05:07:36Z",
+  "revision": "2a7ba7e7bac2c1e47550a09415a8cdac40d01451",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40636158529",
+  "title": "Kit sync: contributor credits (off here) (#92)",
+  "url": "https://github.com/mitsevox/n100f/commit/2a7ba7e7bac2c1e47550a09415a8cdac40d01451"
  },
  "summary": {
   "code": {
