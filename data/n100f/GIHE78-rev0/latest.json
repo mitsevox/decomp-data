@@ -1,29 +1,29 @@
 {
  "game": "n100f",
- "measuredAt": "2026-10-28T04:49:42Z",
+ "measuredAt": "2026-10-28T04:52:47Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T04:49:08Z",
-  "revision": "9ed7122a5e2b4f231cfeb60edb12f4a8ef5172b2",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40634453356",
-  "title": "Import binkread.c, Bink's public API (47 of 53 functions exact) (#83)",
-  "url": "https://github.com/mitsevox/n100f/commit/9ed7122a5e2b4f231cfeb60edb12f4a8ef5172b2"
+  "committedAt": "2026-10-28T04:52:04Z",
+  "revision": "cf7b2d6f8a1b6ac122f7573169956e0c6fab8c88",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40634720190",
+  "title": "Import expand.c, Bink's plane decoder (15 of 16 functions exact) (#85)",
+  "url": "https://github.com/mitsevox/n100f/commit/cf7b2d6f8a1b6ac122f7573169956e0c6fab8c88"
  },
  "summary": {
   "code": {
-   "fuzzy": 385393.24045068,
+   "fuzzy": 399236.64066092,
    "linked": 268388,
-   "matched": 348240,
+   "matched": 356288,
    "total": 1618968
   },
   "data": {
-   "fuzzy": 190652.764326296,
+   "fuzzy": 191892.764326296,
    "linked": 136292,
-   "matched": 164388,
+   "matched": 165628,
    "total": 870056
   },
   "files": {
@@ -32,7 +32,7 @@
    "total": 528
   },
   "functions": {
-   "exact": 1511,
+   "exact": 1526,
    "named": 2677,
    "total": 4746
   }
