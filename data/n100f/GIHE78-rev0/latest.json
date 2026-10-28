@@ -1,17 +1,17 @@
 {
  "game": "n100f",
- "measuredAt": "2026-10-27T23:41:49Z",
+ "measuredAt": "2026-10-28T00:21:55Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-27T23:41:09Z",
-  "revision": "5880dd1c7d6de897b75a5813c7b8f7f7f5720026",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40603805435",
-  "title": "Publish each main measurement to the site's data repository (#77)",
-  "url": "https://github.com/mitsevox/n100f/commit/5880dd1c7d6de897b75a5813c7b8f7f7f5720026"
+  "committedAt": "2026-10-28T00:21:18Z",
+  "revision": "9b1807581d125e5814929dec7ec542954afc0d63",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40608225596",
+  "title": "Publish only through the site's schema-1 action; drop the report-v2 path (#84)",
+  "url": "https://github.com/mitsevox/n100f/commit/9b1807581d125e5814929dec7ec542954afc0d63"
  },
  "summary": {
   "code": {
