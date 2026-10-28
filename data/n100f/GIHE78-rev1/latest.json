@@ -1,0 +1,59 @@
+{
+ "digests": {
+  "history.json": "0d06f0fc39d9214a",
+  "map.json": "be3393ae94bd0fb7"
+ },
+ "game": "n100f",
+ "measuredAt": "2026-10-28T17:27:19Z",
+ "modules": {
+  "contributors": null,
+  "map": "map.json"
+ },
+ "schema": 1,
+ "source": {
+  "committedAt": "2026-10-28T17:26:36Z",
+  "revision": "8eb15c07ef5040e2f4a771b6c5ab3c9247e2a232",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40735772216",
+  "title": "Activate GIHE78-rev1: __start and matching scope for GIHE78-rev0 (#122)",
+  "url": "https://github.com/mitsevox/n100f/commit/8eb15c07ef5040e2f4a771b6c5ab3c9247e2a232"
+ },
+ "summary": {
+  "code": {
+   "fuzzy": 0.0,
+   "linked": 0,
+   "matched": 0,
+   "total": 1599360
+  },
+  "data": {
+   "fuzzy": 0.0,
+   "linked": 0,
+   "matched": 0,
+   "total": 955052
+  },
+  "files": {
+   "exact": 0,
+   "named": 0,
+   "total": 20
+  },
+  "functions": {
+   "exact": 0,
+   "named": 21,
+   "total": 4792
+  }
+ },
+ "target": "GIHE78-rev1",
+ "tools": [
+  {
+   "name": "build-environment",
+   "version": "ghcr.io/mitsevox/n100f-build@sha256:e4ddcdd208e71dc866c54871b054b087f511c6b359b849f2f46a214a9b31b168"
+  },
+  {
+   "name": "dtk",
+   "version": "v1.8.3 + rom-copy-info patch sha256:09125d19ff103165c9dbd397543381a269b44eb84061c8418e1870555fb1adcf"
+  },
+  {
+   "name": "objdiff",
+   "version": "v3.6.1"
+  }
+ ]
+}
