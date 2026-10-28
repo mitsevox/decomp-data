@@ -1,17 +1,21 @@
 {
+ "digests": {
+  "history.json": "12af30ad588146c7",
+  "map.json": "e4bffd08e56db562"
+ },
  "game": "mvp2005",
- "measuredAt": "2026-10-28T05:08:40Z",
+ "measuredAt": "2026-10-28T13:40:58Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T05:07:45Z",
-  "revision": "1305498f519c0b292f5dca2773395cd2d255d275",
-  "runUrl": "https://github.com/mitsevox/mvp2005/actions/runs/40636174052",
-  "title": "Kit sync: contributor credits (off here) (#71)",
-  "url": "https://github.com/mitsevox/mvp2005/commit/1305498f519c0b292f5dca2773395cd2d255d275"
+  "committedAt": "2026-10-28T13:40:02Z",
+  "revision": "82824a8769f152c743796e4ff39fbe86530a78de",
+  "runUrl": "https://github.com/mitsevox/mvp2005/actions/runs/40698542000",
+  "title": "Kit sync 2026-10-28: report check, publish environment, verified tools, second-target tools (GV4E69-rev0) (#72)",
+  "url": "https://github.com/mitsevox/mvp2005/commit/82824a8769f152c743796e4ff39fbe86530a78de"
  },
  "summary": {
   "code": {
@@ -21,7 +25,7 @@
    "total": 5896192
   },
   "data": {
-   "fuzzy": 159322.05250668,
+   "fuzzy": 159322.05250668002,
    "linked": 161956,
    "matched": 151608,
    "total": 1369112
