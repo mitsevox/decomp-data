@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "e9cb5a79e891dccc",
+  "history.json": "a4f58eb0fc451642",
   "map.json": "2f47e399aa353fb3"
  },
  "game": "n100f",
- "measuredAt": "2026-10-28T13:42:37Z",
+ "measuredAt": "2026-10-28T13:49:05Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T13:41:51Z",
-  "revision": "856e0ed0248ec5ec658c5ccbc71df5582afd287f",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40698819374",
-  "title": "Reconstruct flat/zLobMaster.cpp, the projectile launcher (NonMatching, 17/19 exact, GIHE78-rev0) (#118)",
-  "url": "https://github.com/mitsevox/n100f/commit/856e0ed0248ec5ec658c5ccbc71df5582afd287f"
+  "committedAt": "2026-10-28T13:48:16Z",
+  "revision": "9806e405a2ecfc6ac12bd55c28bc7f3f817454fb",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40699811661",
+  "title": "Kit sync 2026-10-28: report check, publish environment, verified tools, second-target tools (GIHE78-rev0) (#117)",
+  "url": "https://github.com/mitsevox/n100f/commit/9806e405a2ecfc6ac12bd55c28bc7f3f817454fb"
  },
  "summary": {
   "code": {
