@@ -1,17 +1,17 @@
 {
  "game": "tw2004",
- "measuredAt": "2026-10-26T20:49:56Z",
+ "measuredAt": "2026-10-28T03:43:32Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-26T20:48:31Z",
-  "revision": "11985bcd413b9da33d0ae58de6877e0906dc6a59",
-  "runUrl": "https://github.com/mitsevox/tw2004/actions/runs/40398926691",
-  "title": "Merge pull request #91 from mitsevox/codex/portfolio-notifier",
-  "url": "https://github.com/mitsevox/tw2004/commit/11985bcd413b9da33d0ae58de6877e0906dc6a59"
+  "committedAt": "2026-10-28T03:42:32Z",
+  "revision": "736a08356058ffb5fd04368bdf87dff1161139c9",
+  "runUrl": "https://github.com/mitsevox/tw2004/actions/runs/40628226661",
+  "title": "Merge pull request #92 from mitsevox/claude/general-discussion-o6243s",
+  "url": "https://github.com/mitsevox/tw2004/commit/736a08356058ffb5fd04368bdf87dff1161139c9"
  },
  "summary": {
   "code": {
@@ -21,30 +21,30 @@
    "total": 1550724
   },
   "data": {
-   "fuzzy": null,
+   "fuzzy": 1078851.5714296,
    "linked": 1078855,
    "matched": 1078831,
    "total": 1078855
   },
   "files": {
-   "exact": 62,
-   "named": 238,
-   "total": 253
+   "exact": 440,
+   "named": 441,
+   "total": 441
   },
   "functions": {
    "exact": 7647,
-   "named": 6715,
+   "named": 6736,
    "total": 7647
   }
  },
  "target": "GW4E69-rev0",
  "tools": [
   {
-   "name": "build-container",
-   "version": "ghcr.io/mitsevox/tw2004-build:main"
+   "name": "build-environment",
+   "version": "ghcr.io/mitsevox/tw2004-build@sha256:5fe1f4cf4082c038f79712f92311905f913d89ba2c5aa406b54b5f763a61b665"
   },
   {
-   "name": "decomp-toolkit",
+   "name": "dtk",
    "version": "v1.8.3"
   },
   {
