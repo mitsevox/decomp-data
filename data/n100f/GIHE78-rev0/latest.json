@@ -1,38 +1,38 @@
 {
  "game": "n100f",
- "measuredAt": "2026-10-28T04:38:51Z",
+ "measuredAt": "2026-10-28T04:40:39Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T04:38:11Z",
-  "revision": "337870de3012ccf565fb0d7f11deee6031f37b7c",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40633437352",
-  "title": "Bink: import ngcfile.c (GameCube file reader), whole unit Matching (#79)",
-  "url": "https://github.com/mitsevox/n100f/commit/337870de3012ccf565fb0d7f11deee6031f37b7c"
+  "committedAt": "2026-10-28T04:40:03Z",
+  "revision": "1591c93060661e75378d2423a7797b1580a52609",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40633610527",
+  "title": "Import binkacd.c: Bink's audio decoder, 7 of 8 functions exact (#80)",
+  "url": "https://github.com/mitsevox/n100f/commit/1591c93060661e75378d2423a7797b1580a52609"
  },
  "summary": {
   "code": {
-   "fuzzy": 356821.68047528,
+   "fuzzy": 360116.2804768,
    "linked": 259708,
-   "matched": 324464,
+   "matched": 327592,
    "total": 1618968
   },
   "data": {
-   "fuzzy": 189968.9014464,
+   "fuzzy": 190288.9014464,
    "linked": 136244,
-   "matched": 163768,
+   "matched": 164088,
    "total": 870056
   },
   "files": {
    "exact": 164,
    "named": 392,
-   "total": 527
+   "total": 529
   },
   "functions": {
-   "exact": 1420,
+   "exact": 1427,
    "named": 2677,
    "total": 4746
   }
