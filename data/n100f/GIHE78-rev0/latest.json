@@ -1,17 +1,17 @@
 {
  "game": "n100f",
- "measuredAt": "2026-10-28T02:54:54Z",
+ "measuredAt": "2026-10-28T03:56:16Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T02:54:19Z",
-  "revision": "b3c1654fb28739459f28a39ae4662b8271bc8ddd",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40623632902",
-  "title": "Bring n100f to the decomp standard (#86)",
-  "url": "https://github.com/mitsevox/n100f/commit/b3c1654fb28739459f28a39ae4662b8271bc8ddd"
+  "committedAt": "2026-10-28T03:55:40Z",
+  "revision": "eaa1518d05fe058870fe6b0727002548032f4f4b",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40629427409",
+  "title": "Sync versions.py and its test with the kit (#88)",
+  "url": "https://github.com/mitsevox/n100f/commit/eaa1518d05fe058870fe6b0727002548032f4f4b"
  },
  "summary": {
   "code": {
