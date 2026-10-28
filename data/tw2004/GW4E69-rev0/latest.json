@@ -37,7 +37,7 @@
    "total": 7647
   }
  },
- "target": "GW4E69",
+ "target": "GW4E69-rev0",
  "tools": [
   {
    "name": "build-container",

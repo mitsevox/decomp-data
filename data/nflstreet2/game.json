@@ -9,18 +9,18 @@
   "accepting": true,
   "guideUrl": "https://github.com/mitsevox/nflstreet2/blob/main/CONTRIBUTING.md"
  },
- "defaultTarget": "GN7E69",
+ "defaultTarget": "GN7E69-rev0",
  "repository": "mitsevox/nflstreet2",
  "schema": 1,
  "shortTitle": "NFL Street 2",
  "slug": "nflstreet2",
  "targets": [
   {
-   "id": "GN7E69",
+   "id": "GN7E69-rev0",
    "label": "GN7E69",
    "platform": "gamecube",
-   "region": null,
-   "revision": null,
+   "region": "USA",
+   "revision": "0",
    "sha1": "3561e946e9ff785b68692f87d2ba85d81fd2dcf4",
    "status": "active"
   }

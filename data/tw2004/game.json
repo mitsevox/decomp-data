@@ -8,18 +8,18 @@
  "contributions": {
   "accepting": false
  },
- "defaultTarget": "GW4E69",
+ "defaultTarget": "GW4E69-rev0",
  "repository": "mitsevox/tw2004",
  "schema": 1,
  "shortTitle": "Tiger Woods 2004",
  "slug": "tw2004",
  "targets": [
   {
-   "id": "GW4E69",
+   "id": "GW4E69-rev0",
    "label": "GW4E69",
    "platform": "gamecube",
-   "region": null,
-   "revision": null,
+   "region": "USA",
+   "revision": "0",
    "sha1": "bbbc55485e51973931dee169e7bf87bc7379223f",
    "status": "active"
   }
