@@ -1,17 +1,17 @@
 {
  "game": "mvp2005",
- "measuredAt": "2026-10-28T04:28:47Z",
+ "measuredAt": "2026-10-28T05:08:40Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T04:27:55Z",
-  "revision": "5f9cd267d3834980af8c404d421d7a0cb571ca5e",
-  "runUrl": "https://github.com/mitsevox/mvp2005/actions/runs/40632471435",
-  "title": "Bring mvp2005 to the decomp standard (#69)",
-  "url": "https://github.com/mitsevox/mvp2005/commit/5f9cd267d3834980af8c404d421d7a0cb571ca5e"
+  "committedAt": "2026-10-28T05:07:45Z",
+  "revision": "1305498f519c0b292f5dca2773395cd2d255d275",
+  "runUrl": "https://github.com/mitsevox/mvp2005/actions/runs/40636174052",
+  "title": "Kit sync: contributor credits (off here) (#71)",
+  "url": "https://github.com/mitsevox/mvp2005/commit/1305498f519c0b292f5dca2773395cd2d255d275"
  },
  "summary": {
   "code": {
