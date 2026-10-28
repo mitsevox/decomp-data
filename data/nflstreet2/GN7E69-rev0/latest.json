@@ -1,44 +1,44 @@
 {
  "digests": {
-  "contributors.json": "61077ea592b339ad",
-  "history.json": "9bb396590f3a2572",
-  "map.json": "62409e941b9c0f52"
+  "contributors.json": "0531010e88564e71",
+  "history.json": "0f8421b82fd19dd7",
+  "map.json": "3e579c83622755cb"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-10-28T13:43:18Z",
+ "measuredAt": "2026-10-28T17:22:23Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T13:40:06Z",
-  "revision": "021284ab219bae850d90cb132be3ee58d9c832ca",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/40698551186",
-  "title": "Kit sync 2026-10-28: report check, publish environment, verified tools, second-target tools (GN7E69-rev0) (#1162)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/021284ab219bae850d90cb132be3ee58d9c832ca"
+  "committedAt": "2026-10-28T17:18:49Z",
+  "revision": "1e6df72256a64300a9f38a3114c51a4fd701a6aa",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/40734513558",
+  "title": "Integrate ten reviewed units (GN7E69-rev0): cu_801C4960, tdbiores and engine promotions (#1163)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/1e6df72256a64300a9f38a3114c51a4fd701a6aa"
  },
  "summary": {
   "code": {
-   "fuzzy": 2273838.040717071,
-   "linked": 673428,
-   "matched": 1774688,
+   "fuzzy": 2273847.0407574708,
+   "linked": 684660,
+   "matched": 1774732,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 707549.34911959,
-   "linked": 612004,
-   "matched": 677677,
+   "fuzzy": 707881.34911959,
+   "linked": 612644,
+   "matched": 678009,
    "total": 1460833
   },
   "files": {
-   "exact": 461,
-   "named": 476,
-   "total": 712
+   "exact": 471,
+   "named": 486,
+   "total": 718
   },
   "functions": {
-   "exact": 12234,
-   "named": 2513,
+   "exact": 12235,
+   "named": 2524,
    "total": 14157
   }
  },
