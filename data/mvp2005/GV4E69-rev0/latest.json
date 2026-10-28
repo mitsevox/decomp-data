@@ -1,17 +1,17 @@
 {
  "game": "mvp2005",
- "measuredAt": "2026-10-26T20:49:10Z",
+ "measuredAt": "2026-10-28T04:28:47Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-26T20:48:27Z",
-  "revision": "f0af8a9a4382c04c19d93bb67938ed553fd322d9",
-  "runUrl": "https://github.com/mitsevox/mvp2005/actions/runs/40398915904",
-  "title": "Merge pull request #68 from mitsevox/codex/portfolio-notifier",
-  "url": "https://github.com/mitsevox/mvp2005/commit/f0af8a9a4382c04c19d93bb67938ed553fd322d9"
+  "committedAt": "2026-10-28T04:27:55Z",
+  "revision": "5f9cd267d3834980af8c404d421d7a0cb571ca5e",
+  "runUrl": "https://github.com/mitsevox/mvp2005/actions/runs/40632471435",
+  "title": "Bring mvp2005 to the decomp standard (#69)",
+  "url": "https://github.com/mitsevox/mvp2005/commit/5f9cd267d3834980af8c404d421d7a0cb571ca5e"
  },
  "summary": {
   "code": {
@@ -40,12 +40,8 @@
  "target": "GV4E69-rev0",
  "tools": [
   {
-   "name": "binutils",
-   "version": "2.42-2"
-  },
-  {
-   "name": "compilers",
-   "version": "20251118"
+   "name": "build-environment",
+   "version": "ghcr.io/mitsevox/mvp2005-build@sha256:834661d6fd61b52720742e5402779c1bf6a59c70715ac0fc1203252294d9d378"
   },
   {
    "name": "dtk",
@@ -54,14 +50,6 @@
   {
    "name": "objdiff",
    "version": "v3.6.1"
-  },
-  {
-   "name": "sjiswrap",
-   "version": "v1.2.2"
-  },
-  {
-   "name": "wibo",
-   "version": "1.0.3"
   }
  ]
 }
