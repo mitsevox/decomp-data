@@ -1,31 +1,31 @@
 {
  "digests": {
-  "history.json": "1b481853d563749a",
-  "map.json": "b4982d383f66bd16"
+  "history.json": "15d90a3b365c81fe",
+  "map.json": "1c42c92e126e4f77"
  },
  "game": "n100f",
- "measuredAt": "2026-10-29T20:04:30Z",
+ "measuredAt": "2026-10-29T20:09:25Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-29T20:03:31Z",
-  "revision": "9c0ad4effff0500e4c0d04f68517e59d51243cab",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40945614009",
-  "title": "Rev1 catch-up through #200: regenerate map, link zFX (GIHE78-rev1) (#201)",
-  "url": "https://github.com/mitsevox/n100f/commit/9c0ad4effff0500e4c0d04f68517e59d51243cab"
+  "committedAt": "2026-10-29T20:08:35Z",
+  "revision": "28b8bcd58661725d2c10656bba77a0989b8fa4c0",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40946368037",
+  "title": "zEntVillain batch 10: navigation, outer helpers and lob inits (GIHE78-rev0, GIHE78-rev1) (#202)",
+  "url": "https://github.com/mitsevox/n100f/commit/28b8bcd58661725d2c10656bba77a0989b8fa4c0"
  },
  "summary": {
   "code": {
-   "fuzzy": 814074.8796330399,
+   "fuzzy": 820992.3196102399,
    "linked": 237248,
-   "matched": 581348,
+   "matched": 583484,
    "total": 1607348
   },
   "data": {
-   "fuzzy": 236746.02724077596,
+   "fuzzy": 236754.93713885595,
    "linked": 45380,
    "matched": 185084,
    "total": 955048
@@ -36,8 +36,8 @@
    "total": 494
   },
   "functions": {
-   "exact": 2432,
-   "named": 3924,
+   "exact": 2437,
+   "named": 3945,
    "total": 4790
   }
  },
