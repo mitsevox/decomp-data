@@ -1,43 +1,43 @@
 {
  "digests": {
-  "history.json": "15d90a3b365c81fe",
-  "map.json": "1c42c92e126e4f77"
+  "history.json": "c96782125c9a150c",
+  "map.json": "40f3a0cc84788faa"
  },
  "game": "n100f",
- "measuredAt": "2026-10-29T20:09:25Z",
+ "measuredAt": "2026-10-29T20:13:10Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-29T20:08:35Z",
-  "revision": "28b8bcd58661725d2c10656bba77a0989b8fa4c0",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40946368037",
-  "title": "zEntVillain batch 10: navigation, outer helpers and lob inits (GIHE78-rev0, GIHE78-rev1) (#202)",
-  "url": "https://github.com/mitsevox/n100f/commit/28b8bcd58661725d2c10656bba77a0989b8fa4c0"
+  "committedAt": "2026-10-29T20:12:24Z",
+  "revision": "6fe9c75d13754f124e95dcd5a814634c4e1a30d0",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40946940813",
+  "title": "z* sweep A\u2013En: zAnimList, zAssetTypes, zCutsceneMgr, zEnv, zCamera, zEnt (+52 exact; GIHE78-rev0, GIHE78-rev1) (#204)",
+  "url": "https://github.com/mitsevox/n100f/commit/6fe9c75d13754f124e95dcd5a814634c4e1a30d0"
  },
  "summary": {
   "code": {
-   "fuzzy": 820992.3196102399,
-   "linked": 237248,
-   "matched": 583484,
+   "fuzzy": 831233.9195764401,
+   "linked": 238436,
+   "matched": 589980,
    "total": 1607348
   },
   "data": {
-   "fuzzy": 236754.93713885595,
+   "fuzzy": 241689.78629573598,
    "linked": 45380,
-   "matched": 185084,
+   "matched": 189828,
    "total": 955048
   },
   "files": {
-   "exact": 185,
+   "exact": 187,
    "named": 313,
    "total": 494
   },
   "functions": {
-   "exact": 2437,
-   "named": 3945,
+   "exact": 2489,
+   "named": 3985,
    "total": 4790
   }
  },
