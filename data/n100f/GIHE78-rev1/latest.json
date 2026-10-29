@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "c96782125c9a150c",
+  "history.json": "24428c2f7b08118e",
   "map.json": "40f3a0cc84788faa"
  },
  "game": "n100f",
- "measuredAt": "2026-10-29T20:13:10Z",
+ "measuredAt": "2026-10-29T20:40:01Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-29T20:12:24Z",
-  "revision": "6fe9c75d13754f124e95dcd5a814634c4e1a30d0",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40946940813",
-  "title": "z* sweep A\u2013En: zAnimList, zAssetTypes, zCutsceneMgr, zEnv, zCamera, zEnt (+52 exact; GIHE78-rev0, GIHE78-rev1) (#204)",
-  "url": "https://github.com/mitsevox/n100f/commit/6fe9c75d13754f124e95dcd5a814634c4e1a30d0"
+  "committedAt": "2026-10-29T20:39:12Z",
+  "revision": "541b50a36468aea59bcd20df88afdf20d15e2b4a",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/40950952078",
+  "title": "zDispatcher (GIHE78-rev0) (#197)",
+  "url": "https://github.com/mitsevox/n100f/commit/541b50a36468aea59bcd20df88afdf20d15e2b4a"
  },
  "summary": {
   "code": {
