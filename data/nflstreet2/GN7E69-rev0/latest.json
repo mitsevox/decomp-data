@@ -1,44 +1,44 @@
 {
  "digests": {
-  "contributors.json": "0531010e88564e71",
-  "history.json": "0f8421b82fd19dd7",
-  "map.json": "3e579c83622755cb"
+  "contributors.json": "7e4ec9a350c06501",
+  "history.json": "b6b6b756b39025c4",
+  "map.json": "f7dfde7699dca001"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-10-28T17:22:23Z",
+ "measuredAt": "2026-10-30T06:21:48Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-28T17:18:49Z",
-  "revision": "1e6df72256a64300a9f38a3114c51a4fd701a6aa",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/40734513558",
-  "title": "Integrate ten reviewed units (GN7E69-rev0): cu_801C4960, tdbiores and engine promotions (#1163)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/1e6df72256a64300a9f38a3114c51a4fd701a6aa"
+  "committedAt": "2026-10-30T06:18:25Z",
+  "revision": "38935dd6110fa26a940733f9aff338428e737351",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41013311036",
+  "title": "Integrate sixteen reviewed promotions and score functions (GN7E69-rev0) (#1215)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/38935dd6110fa26a940733f9aff338428e737351"
  },
  "summary": {
   "code": {
-   "fuzzy": 2273847.0407574708,
-   "linked": 684660,
-   "matched": 1774732,
+   "fuzzy": 2277755.7608422306,
+   "linked": 726120,
+   "matched": 1793212,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 707881.34911959,
-   "linked": 612644,
-   "matched": 678009,
+   "fuzzy": 708553.34911959,
+   "linked": 614796,
+   "matched": 678789,
    "total": 1460833
   },
   "files": {
-   "exact": 471,
-   "named": 486,
-   "total": 718
+   "exact": 486,
+   "named": 501,
+   "total": 722
   },
   "functions": {
-   "exact": 12235,
-   "named": 2524,
+   "exact": 12265,
+   "named": 2533,
    "total": 14157
   }
  },
