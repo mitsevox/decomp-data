@@ -1,43 +1,43 @@
 {
  "digests": {
-  "history.json": "a7c68095ab0162ca",
-  "map.json": "307e5d5225f2f43c"
+  "history.json": "764bc66fb428a202",
+  "map.json": "d04cb200e8564077"
  },
  "game": "n100f",
- "measuredAt": "2026-10-30T20:01:14Z",
+ "measuredAt": "2026-10-30T23:39:02Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-30T20:00:12Z",
-  "revision": "1679bcf27f15ef141b1fcddb93a7a90db928e1c5",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41119801176",
-  "title": "Sweep small functions: xserializer, xsavegame, xSnd, xpkrsvc, xFont, zParCmd, iFile, iSystem, xParGroup, iTime, xMemMgr, xFFX (GIHE78-rev0, GIHE78-rev1) (#221)",
-  "url": "https://github.com/mitsevox/n100f/commit/1679bcf27f15ef141b1fcddb93a7a90db928e1c5"
+  "committedAt": "2026-10-30T23:38:12Z",
+  "revision": "44e69bc22f714f843fbcaaa91e91f29dd363f055",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41145650366",
+  "title": "Sweep small functions round 2: isavegame, xScene, iCollide, xbinio, zVar, xSurface, iFont, iEnv, xPad, xLinkList, iScrFX, xMath, xBound, iDraw, zDispatcher, xordarray, xScrFx, xParMgr, xEnv, xClimate, iCollideFast (GIHE78-rev0, GIHE78-rev1) (#222)",
+  "url": "https://github.com/mitsevox/n100f/commit/44e69bc22f714f843fbcaaa91e91f29dd363f055"
  },
  "summary": {
   "code": {
-   "fuzzy": 923318.99954016,
+   "fuzzy": 933082.5595727599,
    "linked": 242832,
-   "matched": 618008,
+   "matched": 626432,
    "total": 1607348
   },
   "data": {
-   "fuzzy": 251361.91771981597,
+   "fuzzy": 253000.09396781598,
    "linked": 46436,
-   "matched": 194832,
+   "matched": 195632,
    "total": 955048
   },
   "files": {
-   "exact": 193,
+   "exact": 197,
    "named": 313,
    "total": 494
   },
   "functions": {
-   "exact": 2640,
-   "named": 4153,
+   "exact": 2723,
+   "named": 4203,
    "total": 4790
   }
  },
