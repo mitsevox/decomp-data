@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "bc1898dae85a8243",
-  "map.json": "b250d46beb41a3f0"
+  "history.json": "68dc48176dbc104c",
+  "map.json": "8e8abbb1dc6cd386"
  },
  "game": "n100f",
- "measuredAt": "2026-10-30T15:40:18Z",
+ "measuredAt": "2026-10-30T16:01:00Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-30T15:39:23Z",
-  "revision": "8f6e30cf59672ca84ea73e5f965a29a93372dac3",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41082719632",
-  "title": "Reconstruct zMain (GIHE78-rev0, GIHE78-rev1) (#211)",
-  "url": "https://github.com/mitsevox/n100f/commit/8f6e30cf59672ca84ea73e5f965a29a93372dac3"
+  "committedAt": "2026-10-30T15:59:58Z",
+  "revision": "76299e8eeb247896ea0e00778034caf53a3fb03d",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41085837415",
+  "title": "Name zMain INI loader, main and statics from the DWARF (GIHE78-rev0) (#216)",
+  "url": "https://github.com/mitsevox/n100f/commit/76299e8eeb247896ea0e00778034caf53a3fb03d"
  },
  "summary": {
   "code": {
@@ -37,7 +37,7 @@
   },
   "functions": {
    "exact": 3320,
-   "named": 4216,
+   "named": 4218,
    "total": 4745
   }
  },
