@@ -1,43 +1,43 @@
 {
  "digests": {
-  "history.json": "b99982f70f76345f",
-  "map.json": "b12e191f2549de02"
+  "history.json": "49a3820cba13df0d",
+  "map.json": "c0cf54b8f18e0f45"
  },
  "game": "n100f",
- "measuredAt": "2026-10-31T03:05:10Z",
+ "measuredAt": "2026-10-31T06:54:22Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-31T03:04:17Z",
-  "revision": "443671a0b360853ba4ccc63920cc55909ede6900",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41162745541",
-  "title": "RenderWare hand splits; draft palquant.c and bameshop.c (GIHE78-rev0) (#224)",
-  "url": "https://github.com/mitsevox/n100f/commit/443671a0b360853ba4ccc63920cc55909ede6900"
+  "committedAt": "2026-10-31T06:53:30Z",
+  "revision": "b791116d522f23557935d900d42f7a1fe914baa8",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41178406380",
+  "title": "Split and draft xTRC.cpp; name xTRCInit, xTRCDisk (GIHE78-rev0, GIHE78-rev1) (#225)",
+  "url": "https://github.com/mitsevox/n100f/commit/b791116d522f23557935d900d42f7a1fe914baa8"
  },
  "summary": {
   "code": {
-   "fuzzy": 1222549.5191577603,
+   "fuzzy": 1235930.8391657602,
    "linked": 354332,
-   "matched": 809972,
+   "matched": 812160,
    "total": 1618968
   },
   "data": {
-   "fuzzy": 405388.9716574161,
+   "fuzzy": 405646.5527640561,
    "linked": 162660,
    "matched": 305340,
    "total": 870052
   },
   "files": {
    "exact": 217,
-   "named": 411,
-   "total": 506
+   "named": 412,
+   "total": 502
   },
   "functions": {
-   "exact": 3598,
-   "named": 4396,
+   "exact": 3614,
+   "named": 4398,
    "total": 4745
   }
  },
