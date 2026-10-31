@@ -1,33 +1,33 @@
 {
  "digests": {
-  "history.json": "e28261172e7bf052",
-  "map.json": "83b9b5a1da4fe06f"
+  "history.json": "e65ae3a93b6c3f27",
+  "map.json": "b78f3a9661e913f9"
  },
  "game": "n100f",
- "measuredAt": "2026-10-31T16:33:32Z",
+ "measuredAt": "2026-10-31T17:20:46Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-31T16:32:41Z",
-  "revision": "d76c332f843eb1bab9b9db47a51271e0f30d0558",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41220193044",
-  "title": "Split and draft the untouched auto units: zVolume, iPad, iSystem, iParMgr, xCutscene, xDebug, xDraw, zAssetTypes, zEntSimpleObj (GIHE78-rev0) (#232)",
-  "url": "https://github.com/mitsevox/n100f/commit/d76c332f843eb1bab9b9db47a51271e0f30d0558"
+  "committedAt": "2026-10-31T17:19:49Z",
+  "revision": "2f673f59b68baea604f34d2e5e5b597007324f8a",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41223999646",
+  "title": "Inlining profiles for iSystem (-inline off,deferred) and xpkrsvc (-inline deferred) (GIHE78-rev0, GIHE78-rev1) (#234)",
+  "url": "https://github.com/mitsevox/n100f/commit/2f673f59b68baea604f34d2e5e5b597007324f8a"
  },
  "summary": {
   "code": {
-   "fuzzy": 1380114.9196099918,
+   "fuzzy": 1382426.439641832,
    "linked": 361720,
-   "matched": 873656,
+   "matched": 876048,
    "total": 1618968
   },
   "data": {
-   "fuzzy": 604649.3770215758,
+   "fuzzy": 604672.4794599758,
    "linked": 162788,
-   "matched": 474780,
+   "matched": 474908,
    "total": 870052
   },
   "files": {
@@ -36,7 +36,7 @@
    "total": 486
   },
   "functions": {
-   "exact": 3832,
+   "exact": 3845,
    "named": 4586,
    "total": 4745
   }
