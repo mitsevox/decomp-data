@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "95823e9070bb60fb",
+  "history.json": "6f25e9cbe99d29f5",
   "map.json": "538cd40ba09d5f05"
  },
  "game": "n100f",
- "measuredAt": "2026-11-01T22:27:40Z",
+ "measuredAt": "2026-11-01T22:40:25Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-01T22:26:43Z",
-  "revision": "2fac192e11e7cee13fb5418ac671655332d8d38d",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41357165052",
-  "title": "Reverse definition order in flat/isavegame.cpp and twelve game units, name isavegame data (GIHE78-rev0, GIHE78-rev1) (#257)",
-  "url": "https://github.com/mitsevox/n100f/commit/2fac192e11e7cee13fb5418ac671655332d8d38d"
+  "committedAt": "2026-11-01T22:39:25Z",
+  "revision": "38d9d0b1382e781f2604cd14e61804e577ca6ab2",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41358229275",
+  "title": "Add tools/closure.py, a per-unit link-blocker report (GIHE78-rev0, GIHE78-rev1) (#258)",
+  "url": "https://github.com/mitsevox/n100f/commit/38d9d0b1382e781f2604cd14e61804e577ca6ab2"
  },
  "summary": {
   "code": {
