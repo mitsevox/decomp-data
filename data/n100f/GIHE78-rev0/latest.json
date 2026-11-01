@@ -1,27 +1,27 @@
 {
  "digests": {
-  "history.json": "c69fa0ae0814eea9",
-  "map.json": "419b98065d7df885"
+  "history.json": "dfd16a1937b380dd",
+  "map.json": "c7e1b2990f231c75"
  },
  "game": "n100f",
- "measuredAt": "2026-11-01T21:21:43Z",
+ "measuredAt": "2026-11-01T21:43:05Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-01T21:20:48Z",
-  "revision": "7e46595cf7660accab520a810edd50a12cfe9150",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41351544726",
-  "title": "Match five zEntPlayer functions and the unit's .data in flat/zEntPlayer.cpp (GIHE78-rev0, GIHE78-rev1) (#253)",
-  "url": "https://github.com/mitsevox/n100f/commit/7e46595cf7660accab520a810edd50a12cfe9150"
+  "committedAt": "2026-11-01T21:42:01Z",
+  "revision": "277305142df2773f1bb0299d3b0f9d42f30d36dd",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41353348650",
+  "title": "Match zEntPlayer_FXLostChance in flat/zEntPlayer.cpp (GIHE78-rev0, GIHE78-rev1) (#254)",
+  "url": "https://github.com/mitsevox/n100f/commit/277305142df2773f1bb0299d3b0f9d42f30d36dd"
  },
  "summary": {
   "code": {
-   "fuzzy": 1554156.158844352,
+   "fuzzy": 1554160.158857152,
    "linked": 421820,
-   "matched": 938640,
+   "matched": 939312,
    "total": 1618968
   },
   "data": {
@@ -36,7 +36,7 @@
    "total": 496
   },
   "functions": {
-   "exact": 4016,
+   "exact": 4017,
    "named": 4609,
    "total": 4745
   }
