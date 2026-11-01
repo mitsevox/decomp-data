@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "600bda6a53a9e485",
+  "history.json": "7e867ac56bde21dd",
   "map.json": "4bffad7a42e19955"
  },
  "game": "n100f",
- "measuredAt": "2026-11-01T08:26:30Z",
+ "measuredAt": "2026-11-01T08:42:10Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-01T08:25:25Z",
-  "revision": "ceada3bc48a73ab8dcd835bb1f8db5b6bd916603",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41288807485",
-  "title": "Round D: draft zEntVillain's untouched functions (GIHE78-rev0, GIHE78-rev1) (#244)",
-  "url": "https://github.com/mitsevox/n100f/commit/ceada3bc48a73ab8dcd835bb1f8db5b6bd916603"
+  "committedAt": "2026-11-01T08:41:11Z",
+  "revision": "6ae015dcf6968d8639f16bc47d9b3f7bed7582b4",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41289900160",
+  "title": "Rev 1 catch-up after Rounds A-D: regenerate the map, carry multi-range units in part (GIHE78-rev1) (#245)",
+  "url": "https://github.com/mitsevox/n100f/commit/6ae015dcf6968d8639f16bc47d9b3f7bed7582b4"
  },
  "summary": {
   "code": {
