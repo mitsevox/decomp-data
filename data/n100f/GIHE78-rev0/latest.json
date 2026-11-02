@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "9971a9f6af0668da",
-  "map.json": "0195e3817d86b231"
+  "history.json": "6f9084b139d90d4a",
+  "map.json": "f39c2310d1c3dcb4"
  },
  "game": "n100f",
- "measuredAt": "2026-11-02T00:20:17Z",
+ "measuredAt": "2026-11-02T01:54:05Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-02T00:19:16Z",
-  "revision": "aa3458be5552388a975d3a0d394d7e50def0b8d1",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41366515656",
-  "title": "zFeet, iParMgr, iShadow data layout; zFeetInit, zFeetGetIDs exact; xSndPlay; zSceneExit marker fix (GIHE78-rev0, GIHE78-rev1) (#264)",
-  "url": "https://github.com/mitsevox/n100f/commit/aa3458be5552388a975d3a0d394d7e50def0b8d1"
+  "committedAt": "2026-11-02T01:53:13Z",
+  "revision": "3f28fb7a7fc245a9c64754ad28348448ef47a942",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41374787793",
+  "title": "recover.py: place data that only data points to; data rows claim shared globals (gSnd, globals) (GIHE78-rev0) (#265)",
+  "url": "https://github.com/mitsevox/n100f/commit/3f28fb7a7fc245a9c64754ad28348448ef47a942"
  },
  "summary": {
   "code": {
@@ -25,15 +25,15 @@
    "total": 1618968
   },
   "data": {
-   "fuzzy": 742300.284712,
+   "fuzzy": 763697.5034785601,
    "linked": 330660,
-   "matched": 623448,
+   "matched": 646848,
    "total": 870052
   },
   "files": {
    "exact": 244,
    "named": 432,
-   "total": 496
+   "total": 484
   },
   "functions": {
    "exact": 4035,
