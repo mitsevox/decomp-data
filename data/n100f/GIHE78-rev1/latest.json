@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "047922c19cff5d57",
-  "map.json": "00e9009677ebd2cb"
+  "history.json": "dc64d33ce759f520",
+  "map.json": "afd40501b07dd6fd"
  },
  "game": "n100f",
- "measuredAt": "2026-11-02T17:08:15Z",
+ "measuredAt": "2026-11-02T17:19:41Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-02T17:07:06Z",
-  "revision": "3b565cedee19ae582b079a79fb0f52be84e98cda",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41488058277",
-  "title": "Link flat/zConditional.cpp: match zConditionalEventCB (GIHE78-rev0, GIHE78-rev1) (#279)",
-  "url": "https://github.com/mitsevox/n100f/commit/3b565cedee19ae582b079a79fb0f52be84e98cda"
+  "committedAt": "2026-11-02T17:18:23Z",
+  "revision": "37d4c8f26a3300e900674f4bc830053cc4035bb3",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41489906752",
+  "title": "Link flat/zEntShaggy.cpp: pool order and .sbss size (GIHE78-rev0) (#280)",
+  "url": "https://github.com/mitsevox/n100f/commit/37d4c8f26a3300e900674f4bc830053cc4035bb3"
  },
  "summary": {
   "code": {
@@ -25,7 +25,7 @@
    "total": 1607348
   },
   "data": {
-   "fuzzy": 520430.85616376,
+   "fuzzy": 520438.73672216,
    "linked": 234628,
    "matched": 436620,
    "total": 955048
