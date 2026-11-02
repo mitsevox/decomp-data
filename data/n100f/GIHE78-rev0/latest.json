@@ -1,37 +1,37 @@
 {
  "digests": {
-  "history.json": "9c1dccb74ac00928",
-  "map.json": "bb5a559c105fd225"
+  "history.json": "e45b249b126fb372",
+  "map.json": "76b40f999bf35e9d"
  },
  "game": "n100f",
- "measuredAt": "2026-11-02T16:49:05Z",
+ "measuredAt": "2026-11-02T16:56:19Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-02T16:48:04Z",
-  "revision": "b24ced40b1ba0e1c49a3fe84a92097322bcc2411",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41485008816",
-  "title": "Link gc/iFMV.cpp: match PlayFMV (GIHE78-rev0) (#276)",
-  "url": "https://github.com/mitsevox/n100f/commit/b24ced40b1ba0e1c49a3fe84a92097322bcc2411"
+  "committedAt": "2026-11-02T16:55:06Z",
+  "revision": "80eb22665dbd5b10dd0023a2f802b9e51c8685cc",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41486129535",
+  "title": "Link flat/zAnimList.cpp: fix .sdata2 sizes (GIHE78-rev0) (#278)",
+  "url": "https://github.com/mitsevox/n100f/commit/80eb22665dbd5b10dd0023a2f802b9e51c8685cc"
  },
  "summary": {
   "code": {
    "fuzzy": 1558102.1595040718,
-   "linked": 473792,
+   "linked": 474644,
    "matched": 965724,
    "total": 1618968
   },
   "data": {
-   "fuzzy": 793007.6165600002,
-   "linked": 356184,
-   "matched": 647568,
+   "fuzzy": 793009.6385360002,
+   "linked": 356464,
+   "matched": 647752,
    "total": 870052
   },
   "files": {
-   "exact": 246,
+   "exact": 247,
    "named": 432,
    "total": 484
   },
