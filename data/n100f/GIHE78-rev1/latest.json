@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "7c253322e15d4612",
+  "history.json": "0388d4f26dfa6742",
   "map.json": "dd083b24980fc5b2"
  },
  "game": "n100f",
- "measuredAt": "2026-11-02T01:54:05Z",
+ "measuredAt": "2026-11-02T02:03:58Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-02T01:53:13Z",
-  "revision": "3f28fb7a7fc245a9c64754ad28348448ef47a942",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41374787793",
-  "title": "recover.py: place data that only data points to; data rows claim shared globals (gSnd, globals) (GIHE78-rev0) (#265)",
-  "url": "https://github.com/mitsevox/n100f/commit/3f28fb7a7fc245a9c64754ad28348448ef47a942"
+  "committedAt": "2026-11-02T02:02:54Z",
+  "revision": "e04ab36e45e6d3bb0475d08be7801ebede412506",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41375600719",
+  "title": "recover.py: warn when a data claim takes an item only another unit loads (GIHE78-rev0) (#266)",
+  "url": "https://github.com/mitsevox/n100f/commit/e04ab36e45e6d3bb0475d08be7801ebede412506"
  },
  "summary": {
   "code": {
