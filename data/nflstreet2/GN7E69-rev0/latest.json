@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "c8ac9b5c14c8f800",
-  "history.json": "ccd57cd5a5505d50",
+  "history.json": "a1fb6401be89b48c",
   "map.json": "80659ec66454aec5"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-04T20:48:40Z",
+ "measuredAt": "2026-11-04T22:22:41Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-04T20:45:16Z",
-  "revision": "362450f6f29a60bb32a6500d2e8c8f96f0dbdc5c",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41909598691",
-  "title": "Integrate setup, rigid-body and shape collection recovery (GN7E69-rev0) (#1220)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/362450f6f29a60bb32a6500d2e8c8f96f0dbdc5c"
+  "committedAt": "2026-11-04T22:19:15Z",
+  "revision": "797da7c87d0799b22209daf1f92aee67abee9ea1",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41924231392",
+  "title": "File-closing tools: trial, rename, constant check, RTL dumps, files-closed count (GN7E69-rev0) (#1221)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/797da7c87d0799b22209daf1f92aee67abee9ea1"
  },
  "summary": {
   "code": {
