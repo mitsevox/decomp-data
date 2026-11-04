@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "7a5e3591c6d20742",
+  "history.json": "ac09e3a591191e51",
   "map.json": "4e18c7a91d3dac0b"
  },
  "game": "n100f",
- "measuredAt": "2026-11-04T01:55:04Z",
+ "measuredAt": "2026-11-04T02:25:28Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-04T01:54:08Z",
-  "revision": "75d264640eca9726a2259bf4341b2233a040c519",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41757179357",
-  "title": "Close in on iModelVertEval in flat/iModel.cpp; iMath3 row wording (GIHE78-rev0) (#304)",
-  "url": "https://github.com/mitsevox/n100f/commit/75d264640eca9726a2259bf4341b2233a040c519"
+  "committedAt": "2026-11-04T02:24:24Z",
+  "revision": "fa828e0c8776997631bcb11e0d1cce3613737491",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/41760538095",
+  "title": "Checkpoint flat/xFX.cpp: park xFXanimUVAtomicSetup, 24/25 (GIHE78-rev0) (#305)",
+  "url": "https://github.com/mitsevox/n100f/commit/fa828e0c8776997631bcb11e0d1cce3613737491"
  },
  "summary": {
   "code": {
