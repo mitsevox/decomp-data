@@ -1,34 +1,34 @@
 {
  "digests": {
-  "contributors.json": "7e4ec9a350c06501",
-  "history.json": "b6b6b756b39025c4",
-  "map.json": "f7dfde7699dca001"
+  "contributors.json": "c8ac9b5c14c8f800",
+  "history.json": "ccd57cd5a5505d50",
+  "map.json": "80659ec66454aec5"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-10-30T06:21:48Z",
+ "measuredAt": "2026-11-04T20:48:40Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-10-30T06:18:25Z",
-  "revision": "38935dd6110fa26a940733f9aff338428e737351",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41013311036",
-  "title": "Integrate sixteen reviewed promotions and score functions (GN7E69-rev0) (#1215)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/38935dd6110fa26a940733f9aff338428e737351"
+  "committedAt": "2026-11-04T20:45:16Z",
+  "revision": "362450f6f29a60bb32a6500d2e8c8f96f0dbdc5c",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41909598691",
+  "title": "Integrate setup, rigid-body and shape collection recovery (GN7E69-rev0) (#1220)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/362450f6f29a60bb32a6500d2e8c8f96f0dbdc5c"
  },
  "summary": {
   "code": {
-   "fuzzy": 2277755.7608422306,
+   "fuzzy": 2280718.4408271904,
    "linked": 726120,
-   "matched": 1793212,
+   "matched": 1795540,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 708553.34911959,
+   "fuzzy": 708642.4409422299,
    "linked": 614796,
-   "matched": 678789,
+   "matched": 678833,
    "total": 1460833
   },
   "files": {
@@ -37,8 +37,8 @@
    "total": 722
   },
   "functions": {
-   "exact": 12265,
-   "named": 2533,
+   "exact": 12285,
+   "named": 2554,
    "total": 14157
   }
  },
