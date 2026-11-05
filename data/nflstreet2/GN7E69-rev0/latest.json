@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "c8ac9b5c14c8f800",
-  "history.json": "d4840c0893ad3d02",
+  "history.json": "68560df5f48772ae",
   "map.json": "d67ad559a333c0c1"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-04T23:48:02Z",
+ "measuredAt": "2026-11-05T01:09:15Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-04T23:44:35Z",
-  "revision": "bd43342eec4d826be632197d91c8f4c900bf0f4e",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41936105666",
-  "title": "Name 29 engine files from NASCAR 2005 compile units: list.c, Font.c, llmatrix.c ... (GN7E69-rev0) (#1223)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/bd43342eec4d826be632197d91c8f4c900bf0f4e"
+  "committedAt": "2026-11-05T01:06:46Z",
+  "revision": "dadadd08774f7799d0a734f1265046686907fb2c",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41946245967",
+  "title": "Closed files: report flag and Closes: CI check (GN7E69-rev0) (#1226)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/dadadd08774f7799d0a734f1265046686907fb2c"
  },
  "summary": {
   "code": {
@@ -32,6 +32,7 @@
    "total": 1460833
   },
   "files": {
+   "closed": 96,
    "exact": 486,
    "named": 501,
    "total": 722
