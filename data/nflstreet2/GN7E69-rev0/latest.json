@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "c8ac9b5c14c8f800",
-  "history.json": "68560df5f48772ae",
+  "history.json": "20d732707c279a59",
   "map.json": "d67ad559a333c0c1"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-05T01:09:15Z",
+ "measuredAt": "2026-11-05T01:17:02Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-05T01:06:46Z",
-  "revision": "dadadd08774f7799d0a734f1265046686907fb2c",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41946245967",
-  "title": "Closed files: report flag and Closes: CI check (GN7E69-rev0) (#1226)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/dadadd08774f7799d0a734f1265046686907fb2c"
+  "committedAt": "2026-11-05T01:14:34Z",
+  "revision": "2c15d97ceb1823817409b05c94b533c9041457db",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41947156685",
+  "title": "Docs: \"Closing a file\" procedure, kit evidence regimes (regime B) (GN7E69-rev0) (#1225)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/2c15d97ceb1823817409b05c94b533c9041457db"
  },
  "summary": {
   "code": {
