@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "c8ac9b5c14c8f800",
-  "history.json": "5ec7388cf7952398",
+  "history.json": "821d6e5fe7ddf298",
   "map.json": "2e8a8ac38af89451"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-05T04:08:31Z",
+ "measuredAt": "2026-11-05T05:57:36Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-05T04:04:55Z",
-  "revision": "a628e04f1c40b42d3f62b5434c0235d14fbd93a9",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41965545015",
-  "title": "Split engine files at NASCAR 2005 file edges: FSasync.c, sndvd.c, date.c, GCmp.c, huff.c, rle.c, none.c (GN7E69-rev0) (#1224)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/a628e04f1c40b42d3f62b5434c0235d14fbd93a9"
+  "committedAt": "2026-11-05T05:55:06Z",
+  "revision": "ca09b175d47d044db2027c030586dde24ed028c5",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/41977006316",
+  "title": "Profiles can set the compiler language (ProDG -x) (tools, GN7E69-rev0) (#1229)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/ca09b175d47d044db2027c030586dde24ed028c5"
  },
  "summary": {
   "code": {
