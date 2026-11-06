@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "c8ac9b5c14c8f800",
-  "history.json": "d804b8e624fd259e",
-  "map.json": "9c1c1e284a643407"
+  "contributors.json": "d13451274a39597a",
+  "history.json": "24b1946f41751381",
+  "map.json": "4ee131830dabdbbe"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-05T15:34:29Z",
+ "measuredAt": "2026-11-06T03:12:56Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-05T15:31:37Z",
-  "revision": "b0a8192a05df69dc49e4ae886b5657ba4a840918",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42055871456",
-  "title": "Split engine files at NASCAR 2005 file edges: vprintf.c, vfprintf.c, spchevnt.c, spchpick.c, spchrand.c, sdspmix.c, snddrv.c, slinklst.c, saramman.c, supmutpf.c; profile language setting (GN7E69-rev0) (#1228)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/b0a8192a05df69dc49e4ae886b5657ba4a840918"
+  "committedAt": "2026-11-06T03:09:30Z",
+  "revision": "1e35a5b8eff2b3fb932a9fea5650f1e1347a8fda",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42154801126",
+  "title": "Integrate reviewed file closures and speech random seed (GN7E69-rev0) (#1250)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/1e35a5b8eff2b3fb932a9fea5650f1e1347a8fda"
  },
  "summary": {
   "code": {
-   "fuzzy": 2280718.44082719,
-   "linked": 726120,
-   "matched": 1795540,
+   "fuzzy": 2280724.2408255897,
+   "linked": 726204,
+   "matched": 1795624,
    "total": 2648352
   },
   "data": {
@@ -32,14 +32,14 @@
    "total": 1460833
   },
   "files": {
-   "closed": 96,
+   "closed": 408,
    "exact": 490,
    "named": 505,
    "total": 742
   },
   "functions": {
-   "exact": 12285,
-   "named": 2554,
+   "exact": 12286,
+   "named": 5024,
    "total": 14157
   }
  },
