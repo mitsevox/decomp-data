@@ -1,27 +1,27 @@
 {
  "digests": {
-  "history.json": "c13d6a6119e6f1dd",
-  "map.json": "635cb177f8eb62d3"
+  "history.json": "710a631173fb372d",
+  "map.json": "83e9c536a4d352fc"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T11:06:22Z",
+ "measuredAt": "2026-11-07T11:30:21Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T11:05:21Z",
-  "revision": "a6fb8c59639625a8643a0aaf60cf86aafceb7aed",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42366688427",
-  "title": "Link RenderWare dltexdic; 8 more lane-4 functions exact in palquant, dldevice, AtomicAllInOne (GIHE78-rev0) (#388)",
-  "url": "https://github.com/mitsevox/n100f/commit/a6fb8c59639625a8643a0aaf60cf86aafceb7aed"
+  "committedAt": "2026-11-07T11:29:26Z",
+  "revision": "16d127b3cf69a40f1ebfc1f54a514112a8864b1f",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42368384294",
+  "title": "Link RenderWare nodeImmMangleTriangleIndices; 5 core functions exact (GIHE78-rev0) (#390)",
+  "url": "https://github.com/mitsevox/n100f/commit/16d127b3cf69a40f1ebfc1f54a514112a8864b1f"
  },
  "summary": {
   "code": {
-   "fuzzy": 1294808.47958492,
+   "fuzzy": 1295464.9196511202,
    "linked": 642692,
-   "matched": 1237036,
+   "matched": 1240404,
    "total": 1607348
   },
   "data": {
@@ -31,12 +31,12 @@
    "total": 955048
   },
   "files": {
-   "exact": 287,
+   "exact": 288,
    "named": 403,
    "total": 584
   },
   "functions": {
-   "exact": 3835,
+   "exact": 3839,
    "named": 4454,
    "total": 4789
   }
