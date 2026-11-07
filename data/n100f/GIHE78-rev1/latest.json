@@ -1,27 +1,27 @@
 {
  "digests": {
-  "history.json": "91655a766f954e3b",
-  "map.json": "ea0069ffc6919e7f"
+  "history.json": "f83e6ced0768bbc4",
+  "map.json": "633fa47c430db589"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T20:17:24Z",
+ "measuredAt": "2026-11-07T20:24:49Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T20:16:27Z",
-  "revision": "329c356443b77b292b832e5cb1397e0bdf456bf7",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42410256727",
-  "title": "RenderWare lane 2: rpmatfx.c linked (MatFXMaterialCopy and fn_8013E188 exact, FAKEMATCH) (GIHE78-rev0) (#423)",
-  "url": "https://github.com/mitsevox/n100f/commit/329c356443b77b292b832e5cb1397e0bdf456bf7"
+  "committedAt": "2026-11-07T20:23:58Z",
+  "revision": "ed634abbc40cc00f5dedc9dedac519a56c427ccd",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42410872176",
+  "title": "RenderWare GC driver lane rolling batch 13: dldevice.c linked (_rwDlSystem FAKEMATCH), nMaximize exact (GIHE78-rev0) (#424)",
+  "url": "https://github.com/mitsevox/n100f/commit/ed634abbc40cc00f5dedc9dedac519a56c427ccd"
  },
  "summary": {
   "code": {
-   "fuzzy": 1299895.24009376,
+   "fuzzy": 1299898.24007536,
    "linked": 642692,
-   "matched": 1275428,
+   "matched": 1276792,
    "total": 1607348
   },
   "data": {
@@ -31,12 +31,12 @@
    "total": 955048
   },
   "files": {
-   "exact": 295,
+   "exact": 296,
    "named": 403,
    "total": 584
   },
   "functions": {
-   "exact": 3866,
+   "exact": 3867,
    "named": 4459,
    "total": 4789
   }
