@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "39f87220971e0c7a",
-  "map.json": "3a75e8405a5e4f46"
+  "history.json": "91db3ff1c9cf4e6a",
+  "map.json": "3849fe57e5f59291"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T06:22:08Z",
+ "measuredAt": "2026-11-07T06:33:00Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T06:21:17Z",
-  "revision": "ec30ea023527aaab7b6b518fdb971fa465b2fe3e",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42346633086",
-  "title": "Link flat/iSystem.cpp (GIHE78-rev0): 49/49, MatchingFor rev0 (#374)",
-  "url": "https://github.com/mitsevox/n100f/commit/ec30ea023527aaab7b6b518fdb971fa465b2fe3e"
+  "committedAt": "2026-11-07T06:32:07Z",
+  "revision": "03dd8f2a7e83d6a157f7a540294df0dd064d8d3d",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42347447185",
+  "title": "Fold rev0 automatic data into units: xColor, xDebug, xFont, xPad, xScene, zFX, MSL errno/locale/float, AX DSPCode, four padding gaps (GIHE78-rev0, GIHE78-rev1) (#371)",
+  "url": "https://github.com/mitsevox/n100f/commit/03dd8f2a7e83d6a157f7a540294df0dd064d8d3d"
  },
  "summary": {
   "code": {
@@ -25,15 +25,15 @@
    "total": 1618968
   },
   "data": {
-   "fuzzy": 840952.2091973597,
-   "linked": 750608,
-   "matched": 750892,
+   "fuzzy": 848232.2091973597,
+   "linked": 757880,
+   "matched": 758172,
    "total": 870052
   },
   "files": {
-   "exact": 293,
-   "named": 433,
-   "total": 484
+   "exact": 298,
+   "named": 438,
+   "total": 473
   },
   "functions": {
    "exact": 4488,
