@@ -1,27 +1,27 @@
 {
  "digests": {
-  "history.json": "3cd34f4e711ce595",
-  "map.json": "805661084188ac4c"
+  "history.json": "c13d6a6119e6f1dd",
+  "map.json": "635cb177f8eb62d3"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T10:28:17Z",
+ "measuredAt": "2026-11-07T11:06:22Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T10:27:16Z",
-  "revision": "21269c185fe10baef9cb47d5276fd408d9c42055",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42364019969",
-  "title": "Link RenderWare p2altmdl and p2clpcom; 25 core functions exact (GIHE78-rev0) (#386)",
-  "url": "https://github.com/mitsevox/n100f/commit/21269c185fe10baef9cb47d5276fd408d9c42055"
+  "committedAt": "2026-11-07T11:05:21Z",
+  "revision": "a6fb8c59639625a8643a0aaf60cf86aafceb7aed",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42366688427",
+  "title": "Link RenderWare dltexdic; 8 more lane-4 functions exact in palquant, dldevice, AtomicAllInOne (GIHE78-rev0) (#388)",
+  "url": "https://github.com/mitsevox/n100f/commit/a6fb8c59639625a8643a0aaf60cf86aafceb7aed"
  },
  "summary": {
   "code": {
-   "fuzzy": 1294664.43964916,
+   "fuzzy": 1294808.47958492,
    "linked": 642692,
-   "matched": 1233288,
+   "matched": 1237036,
    "total": 1607348
   },
   "data": {
@@ -36,7 +36,7 @@
    "total": 584
   },
   "functions": {
-   "exact": 3828,
+   "exact": 3835,
    "named": 4454,
    "total": 4789
   }
