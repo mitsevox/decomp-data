@@ -1,27 +1,27 @@
 {
  "digests": {
-  "history.json": "d07d2758f2884f32",
-  "map.json": "f3a33c2192d32029"
+  "history.json": "c639049253a7acf6",
+  "map.json": "e3bcc9e80f98ddb9"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T15:02:33Z",
+ "measuredAt": "2026-11-07T15:06:34Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T15:01:32Z",
-  "revision": "b2df45a1c001f7215e6db9ca00118f9f0143887d",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42384346577",
-  "title": "Match RenderWare core units nodeTransform, nodeClipTriangle (GIHE78-rev0) (#397)",
-  "url": "https://github.com/mitsevox/n100f/commit/b2df45a1c001f7215e6db9ca00118f9f0143887d"
+  "committedAt": "2026-11-07T15:05:36Z",
+  "revision": "6eb8f9efb6e04e9ab433255b91437a9eab47400b",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42384682440",
+  "title": "RenderWare core lane batch 4: ParallelCullProcessPacket, CameraBuildParallelClipPlanes exact; bacamera, bamatrix, nodeCullTriangle closer (GIHE78-rev0, GIHE78-rev1) (#396)",
+  "url": "https://github.com/mitsevox/n100f/commit/6eb8f9efb6e04e9ab433255b91437a9eab47400b"
  },
  "summary": {
   "code": {
-   "fuzzy": 1298953.56036136,
+   "fuzzy": 1299200.2803390399,
    "linked": 642692,
-   "matched": 1259100,
+   "matched": 1261180,
    "total": 1607348
   },
   "data": {
@@ -36,7 +36,7 @@
    "total": 584
   },
   "functions": {
-   "exact": 3854,
+   "exact": 3856,
    "named": 4459,
    "total": 4789
   }
