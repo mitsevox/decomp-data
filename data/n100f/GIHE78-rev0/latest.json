@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "50372201466ea745",
+  "history.json": "fe71da9f795a595b",
   "map.json": "bb9880d8591f9b7e"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T20:17:31Z",
+ "measuredAt": "2026-11-07T20:20:07Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T20:16:27Z",
-  "revision": "329c356443b77b292b832e5cb1397e0bdf456bf7",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42410256727",
-  "title": "RenderWare lane 2: rpmatfx.c linked (MatFXMaterialCopy and fn_8013E188 exact, FAKEMATCH) (GIHE78-rev0) (#423)",
-  "url": "https://github.com/mitsevox/n100f/commit/329c356443b77b292b832e5cb1397e0bdf456bf7"
+  "committedAt": "2026-11-07T20:19:09Z",
+  "revision": "76c12ac41e9714edbbaf6dc4dd09e0c288b8c076",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42410474529",
+  "title": "Docs: refresh stale RenderWare counts and the MatFXInfo row (#425)",
+  "url": "https://github.com/mitsevox/n100f/commit/76c12ac41e9714edbbaf6dc4dd09e0c288b8c076"
  },
  "summary": {
   "code": {
