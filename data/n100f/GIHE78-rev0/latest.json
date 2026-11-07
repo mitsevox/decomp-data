@@ -1,43 +1,43 @@
 {
  "digests": {
-  "history.json": "a810f46fdff89694",
-  "map.json": "38a509ef8817dd6e"
+  "history.json": "3f4d358f21d12309",
+  "map.json": "d3a5cd1b32891369"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T07:51:57Z",
+ "measuredAt": "2026-11-07T08:11:09Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T07:50:53Z",
-  "revision": "b71b9e74f158b5278e787be8431abecc2cb96c15",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42352971012",
-  "title": "Link flat/zSaveLoad.cpp (GIHE78-rev0): 35/35, MatchingFor rev0 (#382)",
-  "url": "https://github.com/mitsevox/n100f/commit/b71b9e74f158b5278e787be8431abecc2cb96c15"
+  "committedAt": "2026-11-07T08:09:58Z",
+  "revision": "5e8fc7a32a5fbf557931ab308f7d65b32c558850",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42354300462",
+  "title": "Fold Codex #366 onto main and place rev0's last automatic data: baclump.c 38/38, new data-only p2stdcls.c, 0 automatic data objects (GIHE78-rev0, GIHE78-rev1) (#380)",
+  "url": "https://github.com/mitsevox/n100f/commit/5e8fc7a32a5fbf557931ab308f7d65b32c558850"
  },
  "summary": {
   "code": {
-   "fuzzy": 1600559.9194640003,
-   "linked": 1274560,
-   "matched": 1412096,
+   "fuzzy": 1601140.8397439602,
+   "linked": 1285552,
+   "matched": 1419260,
    "total": 1618968
   },
   "data": {
-   "fuzzy": 852439.5740630397,
-   "linked": 771904,
-   "matched": 772376,
+   "fuzzy": 853017.9356842397,
+   "linked": 772344,
+   "matched": 772640,
    "total": 870052
   },
   "files": {
-   "exact": 304,
-   "named": 438,
-   "total": 452
+   "exact": 305,
+   "named": 439,
+   "total": 439
   },
   "functions": {
-   "exact": 4532,
-   "named": 4637,
+   "exact": 4537,
+   "named": 4638,
    "total": 4744
   }
  },
