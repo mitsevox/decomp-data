@@ -1,27 +1,27 @@
 {
  "digests": {
-  "history.json": "8f47059df28b89ec",
-  "map.json": "6f8a5d07e45f8961"
+  "history.json": "2f39eb9c73b96e6a",
+  "map.json": "e1ae7d1f4f5f6a36"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T17:18:46Z",
+ "measuredAt": "2026-11-07T17:21:25Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T17:17:51Z",
-  "revision": "3694daa508b467724fa619b6206143b7e425fc4b",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42395604221",
-  "title": "RenderWare GC driver lane batch 7: _rwGCNVtxFmtInstNrmCmp exact; geominst, palquant, nodeGameCubeAtomicAllInOne (GIHE78-rev0, GIHE78-rev1) (#401)",
-  "url": "https://github.com/mitsevox/n100f/commit/3694daa508b467724fa619b6206143b7e425fc4b"
+  "committedAt": "2026-11-07T17:20:26Z",
+  "revision": "885165d7e2b3b80eb0d8727cbc18e31abfc17426",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42395826393",
+  "title": "RenderWare core holdouts: nodeClipLine, nodeCullTriangle, p2dep, p2define (GIHE78-rev0) (#399)",
+  "url": "https://github.com/mitsevox/n100f/commit/885165d7e2b3b80eb0d8727cbc18e31abfc17426"
  },
  "summary": {
   "code": {
-   "fuzzy": 1299492.20017048,
+   "fuzzy": 1299568.28013328,
    "linked": 642692,
-   "matched": 1267600,
+   "matched": 1273012,
    "total": 1607348
   },
   "data": {
@@ -31,12 +31,12 @@
    "total": 955048
   },
   "files": {
-   "exact": 294,
+   "exact": 295,
    "named": 403,
    "total": 584
   },
   "functions": {
-   "exact": 3859,
+   "exact": 3862,
    "named": 4459,
    "total": 4789
   }
