@@ -1,32 +1,32 @@
 {
  "digests": {
-  "history.json": "91db3ff1c9cf4e6a",
-  "map.json": "3849fe57e5f59291"
+  "history.json": "23bb90ef6cd8f386",
+  "map.json": "ca5c3dfc2cbdc567"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T06:33:00Z",
+ "measuredAt": "2026-11-07T06:39:54Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T06:32:07Z",
-  "revision": "03dd8f2a7e83d6a157f7a540294df0dd064d8d3d",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42347447185",
-  "title": "Fold rev0 automatic data into units: xColor, xDebug, xFont, xPad, xScene, zFX, MSL errno/locale/float, AX DSPCode, four padding gaps (GIHE78-rev0, GIHE78-rev1) (#371)",
-  "url": "https://github.com/mitsevox/n100f/commit/03dd8f2a7e83d6a157f7a540294df0dd064d8d3d"
+  "committedAt": "2026-11-07T06:38:57Z",
+  "revision": "a7dce40eff8c177dc488e8e28a74600a1bf6bf68",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42347946900",
+  "title": "Link gc/iFX.cpp (GIHE78-rev0, GIHE78-rev1): 5/5, MatchingFor rev0 and rev1 (#375)",
+  "url": "https://github.com/mitsevox/n100f/commit/a7dce40eff8c177dc488e8e28a74600a1bf6bf68"
  },
  "summary": {
   "code": {
-   "fuzzy": 1595711.4393655602,
-   "linked": 1226504,
-   "matched": 1383588,
+   "fuzzy": 1595711.8394327601,
+   "linked": 1228232,
+   "matched": 1384892,
    "total": 1618968
   },
   "data": {
    "fuzzy": 848232.2091973597,
-   "linked": 757880,
+   "linked": 758000,
    "matched": 758172,
    "total": 870052
   },
@@ -36,7 +36,7 @@
    "total": 473
   },
   "functions": {
-   "exact": 4488,
+   "exact": 4489,
    "named": 4635,
    "total": 4744
   }
