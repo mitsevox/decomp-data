@@ -1,42 +1,42 @@
 {
  "digests": {
-  "history.json": "3f4d358f21d12309",
-  "map.json": "d3a5cd1b32891369"
+  "history.json": "b6c821eb31e31d08",
+  "map.json": "f5c3a1188586f385"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T08:11:09Z",
+ "measuredAt": "2026-11-07T09:15:15Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T08:09:58Z",
-  "revision": "5e8fc7a32a5fbf557931ab308f7d65b32c558850",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42354300462",
-  "title": "Fold Codex #366 onto main and place rev0's last automatic data: baclump.c 38/38, new data-only p2stdcls.c, 0 automatic data objects (GIHE78-rev0, GIHE78-rev1) (#380)",
-  "url": "https://github.com/mitsevox/n100f/commit/5e8fc7a32a5fbf557931ab308f7d65b32c558850"
+  "committedAt": "2026-11-07T09:14:14Z",
+  "revision": "40b3caa8b78839dd46149074fe3873b8a9b4653f",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42358873980",
+  "title": "Link RenderWare GameCube units gclights, dlrendst, dlsprite, dl2drend (GIHE78-rev0) (#385)",
+  "url": "https://github.com/mitsevox/n100f/commit/40b3caa8b78839dd46149074fe3873b8a9b4653f"
  },
  "summary": {
   "code": {
-   "fuzzy": 1601140.8397439602,
-   "linked": 1285552,
-   "matched": 1419260,
+   "fuzzy": 1602413.3597415602,
+   "linked": 1301440,
+   "matched": 1430468,
    "total": 1618968
   },
   "data": {
-   "fuzzy": 853017.9356842397,
-   "linked": 772344,
-   "matched": 772640,
+   "fuzzy": 853630.2954747197,
+   "linked": 773752,
+   "matched": 773384,
    "total": 870052
   },
   "files": {
-   "exact": 305,
+   "exact": 309,
    "named": 439,
    "total": 439
   },
   "functions": {
-   "exact": 4537,
+   "exact": 4548,
    "named": 4638,
    "total": 4744
   }
