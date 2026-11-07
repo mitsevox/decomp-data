@@ -1,27 +1,27 @@
 {
  "digests": {
-  "history.json": "608e0bf47740a1e3",
-  "map.json": "30ecf2d7708bf4b1"
+  "history.json": "d07d2758f2884f32",
+  "map.json": "f3a33c2192d32029"
  },
  "game": "n100f",
- "measuredAt": "2026-11-07T14:34:46Z",
+ "measuredAt": "2026-11-07T15:02:33Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-07T14:33:56Z",
-  "revision": "83edbd430dc876cedfab6417fc370c8352676392",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42382195740",
-  "title": "Match RenderWare world units bamatlst, bameshop, nodeLight, nodePostLight, nodeAtomicInstance, nodeWorldSectorInstance (GIHE78-rev0) (#387)",
-  "url": "https://github.com/mitsevox/n100f/commit/83edbd430dc876cedfab6417fc370c8352676392"
+  "committedAt": "2026-11-07T15:01:32Z",
+  "revision": "b2df45a1c001f7215e6db9ca00118f9f0143887d",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42384346577",
+  "title": "Match RenderWare core units nodeTransform, nodeClipTriangle (GIHE78-rev0) (#397)",
+  "url": "https://github.com/mitsevox/n100f/commit/b2df45a1c001f7215e6db9ca00118f9f0143887d"
  },
  "summary": {
   "code": {
-   "fuzzy": 1298945.96043912,
+   "fuzzy": 1298953.56036136,
    "linked": 642692,
-   "matched": 1255580,
+   "matched": 1259100,
    "total": 1607348
   },
   "data": {
@@ -31,12 +31,12 @@
    "total": 955048
   },
   "files": {
-   "exact": 293,
+   "exact": 294,
    "named": 403,
    "total": 584
   },
   "functions": {
-   "exact": 3852,
+   "exact": 3854,
    "named": 4459,
    "total": 4789
   }
