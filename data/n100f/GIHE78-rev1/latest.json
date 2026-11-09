@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "326d55505f3818dc",
-  "map.json": "e08db07625b1bd32"
+  "history.json": "f7c5f10e316d91b6",
+  "map.json": "1a129d3286a646f9"
  },
  "game": "n100f",
- "measuredAt": "2026-11-09T18:07:35Z",
+ "measuredAt": "2026-11-09T21:29:13Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-09T18:02:02Z",
-  "revision": "db40e33cab991d3d954a4970c436c02ca441364e",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42670350419",
-  "title": "RenderWare: skingcn fn_80145598 exact, skingcn.c linked (GIHE78-rev0) (#446)",
-  "url": "https://github.com/mitsevox/n100f/commit/db40e33cab991d3d954a4970c436c02ca441364e"
+  "committedAt": "2026-11-09T21:28:09Z",
+  "revision": "feb2cc608fcc29cd4eee314a8ddc911c81e74155",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/42702789212",
+  "title": "Naming pass: symbols.txt sync and placeholder names (GIHE78-rev0) (#447)",
+  "url": "https://github.com/mitsevox/n100f/commit/feb2cc608fcc29cd4eee314a8ddc911c81e74155"
  },
  "summary": {
   "code": {
@@ -37,7 +37,7 @@
   },
   "functions": {
    "exact": 3890,
-   "named": 4459,
+   "named": 4488,
    "total": 4789
   }
  },
