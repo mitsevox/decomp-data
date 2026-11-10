@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "689fced3eddc162e",
-  "history.json": "c3578734cd065c60",
-  "map.json": "f41a242b4f7136c0"
+  "contributors.json": "489322210aae4f36",
+  "history.json": "1737239e23f91c70",
+  "map.json": "d38e683dbd566a93"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-10T17:25:22Z",
+ "measuredAt": "2026-11-10T20:54:47Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-10T17:21:59Z",
-  "revision": "61475a2346eb35e9b9db47a9db46674230620e08",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42864214236",
-  "title": "Link and close vprintf.c standard-output wrapper (GN7E69-rev0) (#1261)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/61475a2346eb35e9b9db47a9db46674230620e08"
+  "committedAt": "2026-11-10T20:51:20Z",
+  "revision": "49727b8471c92118920e01263e7f42a4d459b1be",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42899333289",
+  "title": "Integrate 21 reviewed file closures and recoveries (#1252-#1319) (GN7E69-rev0) (#1320)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/49727b8471c92118920e01263e7f42a4d459b1be"
  },
  "summary": {
   "code": {
-   "fuzzy": 2280745.2408255897,
-   "linked": 726812,
-   "matched": 1795880,
+   "fuzzy": 2298143.4808314694,
+   "linked": 772056,
+   "matched": 1809792,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 708642.4409422299,
-   "linked": 614796,
-   "matched": 678833,
+   "fuzzy": 732018.4409422299,
+   "linked": 638400,
+   "matched": 702209,
    "total": 1460833
   },
   "files": {
-   "closed": 412,
-   "exact": 491,
-   "named": 506,
-   "total": 741
+   "closed": 463,
+   "exact": 507,
+   "named": 521,
+   "total": 749
   },
   "functions": {
-   "exact": 12287,
-   "named": 5111,
+   "exact": 12305,
+   "named": 5696,
    "total": 14157
   }
  },
