@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "d13451274a39597a",
-  "history.json": "f54a6edde63ecd9c",
-  "map.json": "304c353038f9b5c3"
+  "contributors.json": "689fced3eddc162e",
+  "history.json": "2e9b4577c6ff390c",
+  "map.json": "b3a0693ac0a7a2f2"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-10T17:13:07Z",
+ "measuredAt": "2026-11-10T17:20:14Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-10T17:09:50Z",
-  "revision": "771b0ce2d01f7ea92f3b8706117a3c273949950d",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42862064670",
-  "title": "Close 2 game sound files: SndgCrowd, SndgSoundObj; name SndgPathfinder ambient sound objects (GN7E69-rev0) (#1251)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/771b0ce2d01f7ea92f3b8706117a3c273949950d"
+  "committedAt": "2026-11-10T17:17:18Z",
+  "revision": "3094cbffddc516e345b88e6ef13361dd6945fb97",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42863397591",
+  "title": "Link and close PortraitRender.cpp: player portrait rendering, palette texel packing now exact (GN7E69-rev0) (#1257)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/3094cbffddc516e345b88e6ef13361dd6945fb97"
  },
  "summary": {
   "code": {
-   "fuzzy": 2280724.2408255897,
-   "linked": 726204,
-   "matched": 1795624,
+   "fuzzy": 2280745.2408255897,
+   "linked": 726760,
+   "matched": 1795880,
    "total": 2648352
   },
   "data": {
@@ -32,14 +32,14 @@
    "total": 1460833
   },
   "files": {
-   "closed": 410,
+   "closed": 411,
    "exact": 490,
    "named": 505,
-   "total": 742
+   "total": 741
   },
   "functions": {
-   "exact": 12286,
-   "named": 5087,
+   "exact": 12287,
+   "named": 5111,
    "total": 14157
   }
  },
