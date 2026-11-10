@@ -1,27 +1,27 @@
 {
  "digests": {
   "contributors.json": "689fced3eddc162e",
-  "history.json": "2e9b4577c6ff390c",
-  "map.json": "b3a0693ac0a7a2f2"
+  "history.json": "c3578734cd065c60",
+  "map.json": "f41a242b4f7136c0"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-10T17:20:14Z",
+ "measuredAt": "2026-11-10T17:25:22Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-10T17:17:18Z",
-  "revision": "3094cbffddc516e345b88e6ef13361dd6945fb97",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42863397591",
-  "title": "Link and close PortraitRender.cpp: player portrait rendering, palette texel packing now exact (GN7E69-rev0) (#1257)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/3094cbffddc516e345b88e6ef13361dd6945fb97"
+  "committedAt": "2026-11-10T17:21:59Z",
+  "revision": "61475a2346eb35e9b9db47a9db46674230620e08",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42864214236",
+  "title": "Link and close vprintf.c standard-output wrapper (GN7E69-rev0) (#1261)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/61475a2346eb35e9b9db47a9db46674230620e08"
  },
  "summary": {
   "code": {
    "fuzzy": 2280745.2408255897,
-   "linked": 726760,
+   "linked": 726812,
    "matched": 1795880,
    "total": 2648352
   },
@@ -32,9 +32,9 @@
    "total": 1460833
   },
   "files": {
-   "closed": 411,
-   "exact": 490,
-   "named": 505,
+   "closed": 412,
+   "exact": 491,
+   "named": 506,
    "total": 741
   },
   "functions": {
