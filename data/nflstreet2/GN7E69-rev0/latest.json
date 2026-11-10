@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "d13451274a39597a",
-  "history.json": "24b1946f41751381",
-  "map.json": "4ee131830dabdbbe"
+  "history.json": "f54a6edde63ecd9c",
+  "map.json": "304c353038f9b5c3"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-06T03:12:56Z",
+ "measuredAt": "2026-11-10T17:13:07Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-06T03:09:30Z",
-  "revision": "1e35a5b8eff2b3fb932a9fea5650f1e1347a8fda",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42154801126",
-  "title": "Integrate reviewed file closures and speech random seed (GN7E69-rev0) (#1250)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/1e35a5b8eff2b3fb932a9fea5650f1e1347a8fda"
+  "committedAt": "2026-11-10T17:09:50Z",
+  "revision": "771b0ce2d01f7ea92f3b8706117a3c273949950d",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/42862064670",
+  "title": "Close 2 game sound files: SndgCrowd, SndgSoundObj; name SndgPathfinder ambient sound objects (GN7E69-rev0) (#1251)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/771b0ce2d01f7ea92f3b8706117a3c273949950d"
  },
  "summary": {
   "code": {
@@ -32,14 +32,14 @@
    "total": 1460833
   },
   "files": {
-   "closed": 408,
+   "closed": 410,
    "exact": 490,
    "named": 505,
    "total": 742
   },
   "functions": {
    "exact": 12286,
-   "named": 5024,
+   "named": 5087,
    "total": 14157
   }
  },
