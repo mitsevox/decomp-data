@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "942d419e428b29d1",
-  "history.json": "d18bb4e31e22cd04",
-  "map.json": "4b5dbab42fc5bc7f"
+  "contributors.json": "53de6b4e26a0b886",
+  "history.json": "ac1839b8e1669578",
+  "map.json": "8529c563808d5146"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-13T16:49:10Z",
+ "measuredAt": "2026-11-13T16:53:59Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-13T16:46:05Z",
-  "revision": "35f796ade6f28db5c205ec06ec7d415803c9891c",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43466032050",
-  "title": "Link and close PadState.cpp and Loading.cpp: pad input state and loading screen, three newly exact functions (GN7E69-rev0) (#1318)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/35f796ade6f28db5c205ec06ec7d415803c9891c"
+  "committedAt": "2026-11-13T16:50:50Z",
+  "revision": "28beeaaf678a388eed29073f879a52e51214382e",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43466826320",
+  "title": "Close 5 files: menu framework names, CreateTeamMenu/CreatePlayerMenu/CreatePlayerGear, MsgChallenge, AppearanceNameTable; files_closed follows fix (GN7E69-rev0) (#1324)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/28beeaaf678a388eed29073f879a52e51214382e"
  },
  "summary": {
   "code": {
-   "fuzzy": 2298549.8808147497,
-   "linked": 779116,
-   "matched": 1811324,
+   "fuzzy": 2298565.88082355,
+   "linked": 781392,
+   "matched": 1812016,
    "total": 2648352
   },
   "data": {
    "fuzzy": 732390.4409422299,
-   "linked": 638908,
+   "linked": 638932,
    "matched": 702581,
    "total": 1460833
   },
   "files": {
-   "closed": 489,
-   "exact": 512,
-   "named": 526,
+   "closed": 494,
+   "exact": 513,
+   "named": 527,
    "total": 751
   },
   "functions": {
-   "exact": 12310,
-   "named": 6130,
+   "exact": 12311,
+   "named": 6413,
    "total": 14157
   }
  },
