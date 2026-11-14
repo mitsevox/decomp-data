@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "973e3d9480e39446",
-  "history.json": "d3f3d8876b55fb1f",
+  "history.json": "076655bf5e7b7f5a",
   "map.json": "66dcafd466aa4e77"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-14T08:41:20Z",
+ "measuredAt": "2026-11-14T08:52:14Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-14T08:38:39Z",
-  "revision": "76e79661486fc4740385f3ebdf83322f8cdb59e4",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43576795982",
-  "title": "Link and close kf_sin.c sine kernel (GN7E69-rev0) (#1340)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/76e79661486fc4740385f3ebdf83322f8cdb59e4"
+  "committedAt": "2026-11-14T08:49:09Z",
+  "revision": "f484326376f2290074865f61fe7c77a159c4b080",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43577607240",
+  "title": "Docs: matching-leniency policy and FAKEMATCH labels (GN7E69-rev0) (#1345)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/f484326376f2290074865f61fe7c77a159c4b080"
  },
  "summary": {
   "code": {
