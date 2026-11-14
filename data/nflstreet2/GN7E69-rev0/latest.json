@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "d841ebc77a0f2e59",
-  "history.json": "103d01123e538c32",
-  "map.json": "3a79b821514275a3"
+  "contributors.json": "fe125671d2264df2",
+  "history.json": "02ab83a15579227e",
+  "map.json": "5c11beba324abc91"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-13T17:34:02Z",
+ "measuredAt": "2026-11-14T00:47:24Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-13T17:29:54Z",
-  "revision": "fa95a0ae7a75ec3ce4d729426472f840fd009916",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43473376156",
-  "title": "Integrate 6 reviewed file closures: #1322, #1323, #1326, #1327, #1328, #1329 (GN7E69-rev0) (#1330)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/fa95a0ae7a75ec3ce4d729426472f840fd009916"
+  "committedAt": "2026-11-14T00:43:39Z",
+  "revision": "c74e71b81e84faf338f3c63a2cf4e50045b7d794",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43536123505",
+  "title": "Close PortDb.cpp and EATraxDb.cpp (cu_8007AEE8), match __ppc_eabi_init.c (GN7E69-rev0) (#1331)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/c74e71b81e84faf338f3c63a2cf4e50045b7d794"
  },
  "summary": {
   "code": {
-   "fuzzy": 2311280.48041459,
-   "linked": 978124,
-   "matched": 1929588,
+   "fuzzy": 2311348.64041939,
+   "linked": 979628,
+   "matched": 1929792,
    "total": 2648352
   },
   "data": {
    "fuzzy": 755120.93539048,
-   "linked": 676444,
+   "linked": 676508,
    "matched": 736605,
    "total": 1460833
   },
   "files": {
-   "closed": 524,
-   "exact": 549,
-   "named": 563,
-   "total": 763
+   "closed": 526,
+   "exact": 552,
+   "named": 565,
+   "total": 764
   },
   "functions": {
-   "exact": 12566,
-   "named": 7458,
+   "exact": 12569,
+   "named": 7476,
    "total": 14157
   }
  },
