@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "973e3d9480e39446",
-  "history.json": "076655bf5e7b7f5a",
-  "map.json": "66dcafd466aa4e77"
+  "contributors.json": "8d5b4a17452cd673",
+  "history.json": "8b8c346a2e16c34a",
+  "map.json": "2cd1f095a6c99b2e"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-14T08:52:14Z",
+ "measuredAt": "2026-11-14T08:58:03Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-14T08:49:09Z",
-  "revision": "f484326376f2290074865f61fe7c77a159c4b080",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43577607240",
-  "title": "Docs: matching-leniency policy and FAKEMATCH labels (GN7E69-rev0) (#1345)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/f484326376f2290074865f61fe7c77a159c4b080"
+  "committedAt": "2026-11-14T08:55:06Z",
+  "revision": "20e032829a7d55d4577240b0fd1aa1d7b6b1d3b9",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43578055984",
+  "title": "Integrate #1333, #1336 and #1342: t3db_io/T3DB_Lexer, vfprintf.c, close kf_cos.c (GN7E69-rev0) (#1346)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/20e032829a7d55d4577240b0fd1aa1d7b6b1d3b9"
  },
  "summary": {
   "code": {
-   "fuzzy": 2311533.40035515,
-   "linked": 991588,
-   "matched": 1935600,
+   "fuzzy": 2325408.4805857507,
+   "linked": 995360,
+   "matched": 1940012,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 755205.0605389599,
-   "linked": 680114,
-   "matched": 737505,
+   "fuzzy": 755733.0605389599,
+   "linked": 681514,
+   "matched": 738033,
    "total": 1460833
   },
   "files": {
-   "closed": 533,
-   "exact": 554,
-   "named": 567,
-   "total": 765
+   "closed": 534,
+   "exact": 558,
+   "named": 571,
+   "total": 768
   },
   "functions": {
-   "exact": 12589,
-   "named": 7522,
+   "exact": 12592,
+   "named": 7531,
    "total": 14157
   }
  },
