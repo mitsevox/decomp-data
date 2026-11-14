@@ -1,27 +1,27 @@
 {
  "digests": {
   "contributors.json": "fe125671d2264df2",
-  "history.json": "446e8810703ee6b8",
-  "map.json": "327518cd81fdb82d"
+  "history.json": "3731a373ba2ae626",
+  "map.json": "92f377d009ac96b2"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-14T01:20:20Z",
+ "measuredAt": "2026-11-14T04:12:18Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-14T01:17:36Z",
-  "revision": "19e9a398699b5bc05c399dba3f6da693a19b9d05",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43539703948",
-  "title": "Lane C closes: CreateTeamDb.cpp, mtx.c, GXTransform.c, OSCache.c, GXLight.c (GN7E69-rev0) (#1332)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/19e9a398699b5bc05c399dba3f6da693a19b9d05"
+  "committedAt": "2026-11-14T04:09:22Z",
+  "revision": "8bd6ba00e01244b805c69638059d411377509202",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/43555209196",
+  "title": "Link and close __ppc_eabi_init.c: link_roots keeps .init code (GN7E69-rev0) (#1335)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/8bd6ba00e01244b805c69638059d411377509202"
  },
  "summary": {
   "code": {
    "fuzzy": 2311348.64041939,
-   "linked": 991116,
+   "linked": 991416,
    "matched": 1929792,
    "total": 2648352
   },
@@ -32,7 +32,7 @@
    "total": 1460833
   },
   "files": {
-   "closed": 531,
+   "closed": 532,
    "exact": 553,
    "named": 566,
    "total": 763
