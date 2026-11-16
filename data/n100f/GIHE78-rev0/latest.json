@@ -1,21 +1,21 @@
 {
  "digests": {
-  "history.json": "46afca4c526daea2",
+  "history.json": "9fff288ef75bf03d",
   "map.json": "d8f8e1434d9544ae"
  },
  "game": "n100f",
- "measuredAt": "2026-11-16T05:47:57Z",
+ "measuredAt": "2026-11-16T07:39:40Z",
  "modules": {
   "contributors": null,
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-16T05:46:52Z",
-  "revision": "14bcb3d84b410d98ed32be537a26cb9f5aa1bc72",
-  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/43812451098",
-  "title": "Add CC0 1.0 LICENSE and README license scope (#450)",
-  "url": "https://github.com/mitsevox/n100f/commit/14bcb3d84b410d98ed32be537a26cb9f5aa1bc72"
+  "committedAt": "2026-11-16T07:38:43Z",
+  "revision": "680b08782b0044854b853c7cc47a69ca8ac5ec6a",
+  "runUrl": "https://github.com/mitsevox/n100f/actions/runs/43825278155",
+  "title": "Locals audit vs SLUS-20349 DWARF, phases 1-3 (GIHE78-rev0, GIHE78-rev1) (#451)",
+  "url": "https://github.com/mitsevox/n100f/commit/680b08782b0044854b853c7cc47a69ca8ac5ec6a"
  },
  "summary": {
   "code": {
