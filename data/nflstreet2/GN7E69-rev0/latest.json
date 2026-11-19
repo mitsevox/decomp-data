@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "2ee7638f3cea1c0d",
-  "history.json": "59d5f2458c540524",
-  "map.json": "d2ca85d54e9000f9"
+  "contributors.json": "3b17022c840ac1cc",
+  "history.json": "20f11c0c6abe9cb8",
+  "map.json": "7d1c100b35db4a19"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-18T23:01:07Z",
+ "measuredAt": "2026-11-19T10:25:33Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-18T22:58:24Z",
-  "revision": "eacb996e0fb9915d427e11c9975f9734eae21db4",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/44416557951",
-  "title": "Integrate #1347, #1349 and #1350: c14 to c16 waves, 102 files closed (GN7E69-rev0) (#1362)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/eacb996e0fb9915d427e11c9975f9734eae21db4"
+  "committedAt": "2026-11-19T10:22:36Z",
+  "revision": "7a2eb5f98d464e46b30e1b6c1f5a973053190bab",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/44505084662",
+  "title": "Integrate #1356 to #1361: c17 to c20 waves, 33 files closed (GN7E69-rev0) (#1363)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/7a2eb5f98d464e46b30e1b6c1f5a973053190bab"
  },
  "summary": {
   "code": {
-   "fuzzy": 2355766.4405724714,
-   "linked": 1146260,
-   "matched": 2006568,
+   "fuzzy": 2396363.880642511,
+   "linked": 1194284,
+   "matched": 2061376,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 787525.10050136,
-   "linked": 712390,
-   "matched": 769170,
+   "fuzzy": 794965.23396984,
+   "linked": 724830,
+   "matched": 776442,
    "total": 1460833
   },
   "files": {
-   "closed": 657,
-   "exact": 689,
-   "named": 691,
-   "total": 898
+   "closed": 689,
+   "exact": 718,
+   "named": 719,
+   "total": 902
   },
   "functions": {
-   "exact": 12859,
-   "named": 8318,
+   "exact": 13029,
+   "named": 8600,
    "total": 14157
   }
  },
