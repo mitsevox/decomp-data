@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "3b17022c840ac1cc",
-  "history.json": "b9187a203d270f3c",
-  "map.json": "7d1c100b35db4a19"
+  "contributors.json": "481bfc49a8819152",
+  "history.json": "560f3324d6450486",
+  "map.json": "6019f50036e8f75b"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-20T18:04:11Z",
+ "measuredAt": "2026-11-20T19:37:36Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-20T18:01:10Z",
-  "revision": "5bd451729d93d68b84b798c9c4d4707b97a2edda",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/44788787965",
-  "title": "(GN7E69-rev0) tools: holdouts link mechanism for any file, tracked by HOLDOUT: evidence rows (owner rulings 2026-11-19/20) (#1366)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/5bd451729d93d68b84b798c9c4d4707b97a2edda"
+  "committedAt": "2026-11-20T19:34:30Z",
+  "revision": "d1b057bb31ea1c0293a90adfb719243585262290",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/44803413290",
+  "title": "(GN7E69-rev0) d1: close 16 files (StoryData, system.c, camshot, sound library incl. -mps-float profile, physworld via #pragma interface) (#1364)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/d1b057bb31ea1c0293a90adfb719243585262290"
  },
  "summary": {
   "code": {
-   "fuzzy": 2396363.880642511,
-   "linked": 1194284,
-   "matched": 2061376,
+   "fuzzy": 2398762.0403429116,
+   "linked": 1205404,
+   "matched": 2067808,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 794965.23396984,
-   "linked": 724830,
-   "matched": 776442,
+   "fuzzy": 796225.23396984,
+   "linked": 726414,
+   "matched": 777702,
    "total": 1460833
   },
   "files": {
-   "closed": 689,
-   "exact": 718,
-   "named": 719,
-   "total": 902
+   "closed": 705,
+   "exact": 730,
+   "named": 731,
+   "total": 899
   },
   "functions": {
-   "exact": 13029,
-   "named": 8600,
+   "exact": 13048,
+   "named": 8646,
    "total": 14157
   }
  },
