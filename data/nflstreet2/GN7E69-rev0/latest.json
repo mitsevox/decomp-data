@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "3b17022c840ac1cc",
-  "history.json": "20f11c0c6abe9cb8",
+  "history.json": "b9187a203d270f3c",
   "map.json": "7d1c100b35db4a19"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-19T10:25:33Z",
+ "measuredAt": "2026-11-20T18:04:11Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-19T10:22:36Z",
-  "revision": "7a2eb5f98d464e46b30e1b6c1f5a973053190bab",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/44505084662",
-  "title": "Integrate #1356 to #1361: c17 to c20 waves, 33 files closed (GN7E69-rev0) (#1363)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/7a2eb5f98d464e46b30e1b6c1f5a973053190bab"
+  "committedAt": "2026-11-20T18:01:10Z",
+  "revision": "5bd451729d93d68b84b798c9c4d4707b97a2edda",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/44788787965",
+  "title": "(GN7E69-rev0) tools: holdouts link mechanism for any file, tracked by HOLDOUT: evidence rows (owner rulings 2026-11-19/20) (#1366)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/5bd451729d93d68b84b798c9c4d4707b97a2edda"
  },
  "summary": {
   "code": {
