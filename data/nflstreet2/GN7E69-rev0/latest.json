@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "ac2c99483e9cebf9",
-  "history.json": "3eae707d5dcdcb79",
-  "map.json": "9c97d61c07887251"
+  "contributors.json": "051d67fcc761733b",
+  "history.json": "5163c78a1b0e1e9a",
+  "map.json": "e7b1d86bd0cdf867"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-22T03:25:02Z",
+ "measuredAt": "2026-11-22T03:42:31Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-22T03:22:02Z",
-  "revision": "75c2147c08b0e1cb520bafe3f39cbe7849a86c61",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/44980300260",
-  "title": "Integrate #1384 and #1386: 6 files closed (GN7E69-rev0) (#1389)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/75c2147c08b0e1cb520bafe3f39cbe7849a86c61"
+  "committedAt": "2026-11-22T03:39:01Z",
+  "revision": "897c74759424f2a0f304d895bd8d80702a247148",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/44981599255",
+  "title": "Integrate #1388: sbadd.c, smemman.c, spat2hdr.c closed (GN7E69-rev0) (#1392)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/897c74759424f2a0f304d895bd8d80702a247148"
  },
  "summary": {
   "code": {
-   "fuzzy": 2510140.9202078315,
-   "linked": 1996384,
-   "matched": 2208308,
+   "fuzzy": 2511884.6002146318,
+   "linked": 1999180,
+   "matched": 2210532,
    "total": 2648352
   },
   "data": {
@@ -32,14 +32,14 @@
    "total": 1460833
   },
   "files": {
-   "closed": 753,
-   "exact": 813,
-   "named": 814,
+   "closed": 756,
+   "exact": 816,
+   "named": 817,
    "total": 979
   },
   "functions": {
-   "exact": 13368,
-   "named": 10342,
+   "exact": 13371,
+   "named": 10345,
    "total": 14157
   }
  },
