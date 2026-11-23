@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "de783f012baee82f",
-  "history.json": "ce2149c47b7466ad",
-  "map.json": "aaf603737728a8ed"
+  "history.json": "1c7d451c64ff6fa9",
+  "map.json": "a94c98f56614e54d"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-23T12:09:54Z",
+ "measuredAt": "2026-11-23T12:19:32Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-23T12:06:29Z",
-  "revision": "32c5f831c2c727b2aaff80c5b2bc08074e3452c7",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45171171718",
-  "title": "Place orphan .rodata: discarded pools of dbfile.c, TournamentDb.cpp and tmtexture.c (lane C1 follow-ups, GN7E69-rev0) (#1410)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/32c5f831c2c727b2aaff80c5b2bc08074e3452c7"
+  "committedAt": "2026-11-23T12:15:14Z",
+  "revision": "e7948f922076da0f81abb88b6804f96cd704dbd3",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45172544766",
+  "title": "Place the StatGen.cpp .bss orphan: simulated-game record (GN7E69-rev0) (#1411)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/e7948f922076da0f81abb88b6804f96cd704dbd3"
  },
  "summary": {
   "code": {
@@ -26,9 +26,9 @@
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1152687.9615278,
-   "linked": 1120181,
-   "matched": 1144021,
+   "fuzzy": 1162883.9615278,
+   "linked": 1130377,
+   "matched": 1154217,
    "total": 1460833
   },
   "files": {
