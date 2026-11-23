@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "de783f012baee82f",
-  "history.json": "f314ed12b992d972",
-  "map.json": "3b2bdb18f522ed35"
+  "history.json": "ce2149c47b7466ad",
+  "map.json": "aaf603737728a8ed"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-23T12:05:55Z",
+ "measuredAt": "2026-11-23T12:09:54Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-23T12:02:20Z",
-  "revision": "6698feac188f1b7ccd028965829d1d8fcb009097",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45170540904",
-  "title": "Place orphan and linked-only .data in their files: level lights, author strings, codec and camera records, SDK strings (lane C2, GN7E69-rev0) (#1407)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/6698feac188f1b7ccd028965829d1d8fcb009097"
+  "committedAt": "2026-11-23T12:06:29Z",
+  "revision": "32c5f831c2c727b2aaff80c5b2bc08074e3452c7",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45171171718",
+  "title": "Place orphan .rodata: discarded pools of dbfile.c, TournamentDb.cpp and tmtexture.c (lane C1 follow-ups, GN7E69-rev0) (#1410)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/32c5f831c2c727b2aaff80c5b2bc08074e3452c7"
  },
  "summary": {
   "code": {
@@ -26,9 +26,9 @@
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1152527.9615278,
-   "linked": 1120021,
-   "matched": 1143861,
+   "fuzzy": 1152687.9615278,
+   "linked": 1120181,
+   "matched": 1144021,
    "total": 1460833
   },
   "files": {
