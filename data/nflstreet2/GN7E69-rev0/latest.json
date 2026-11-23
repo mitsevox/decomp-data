@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "de783f012baee82f",
-  "history.json": "d2be90450e4c3180",
-  "map.json": "7c5d253562ee859d"
+  "history.json": "e7888409cb1568f2",
+  "map.json": "e854892fec655833"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-23T11:10:47Z",
+ "measuredAt": "2026-11-23T11:41:55Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-23T11:07:25Z",
-  "revision": "b7985e2f7705ede3f4d673bc32f16eb0b9c1cb60",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45162271387",
-  "title": "Credit storage-mapped data and list unmapped data owners (tools, GN7E69-rev0) (#1406)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/b7985e2f7705ede3f4d673bc32f16eb0b9c1cb60"
+  "committedAt": "2026-11-23T11:37:25Z",
+  "revision": "8031e68f01238041f4734427415d4f8ccf580708",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45166869557",
+  "title": "Place orphan .rodata/.ctors: discarded query pools of dbocmt.c, dboptions.c, dbuser.c and owner rows (lane C1, GN7E69-rev0) (#1409)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/8031e68f01238041f4734427415d4f8ccf580708"
  },
  "summary": {
   "code": {
@@ -26,9 +26,9 @@
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1132473.9615278,
-   "linked": 1099967,
-   "matched": 1123807,
+   "fuzzy": 1133329.9615278,
+   "linked": 1100823,
+   "matched": 1124663,
    "total": 1460833
   },
   "files": {
