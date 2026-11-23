@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "de783f012baee82f",
-  "history.json": "34fe71109b79d139",
-  "map.json": "f21a5bb2155a1ddf"
+  "history.json": "f314ed12b992d972",
+  "map.json": "3b2bdb18f522ed35"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-23T11:50:23Z",
+ "measuredAt": "2026-11-23T12:05:55Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-23T11:47:06Z",
-  "revision": "48cc71183c9af8715327872285d287381755e729",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45168285487",
-  "title": "Place orphan and linked-only .bss/.sbss data: GXDisplayList.c, dsp_task.c, ai.c, Font.c, resstream.c, resloosefile.c, sort.c, tmmaterial.c, tmtexture.c, animcache.c, object.c (GN7E69-rev0) (#1408)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/48cc71183c9af8715327872285d287381755e729"
+  "committedAt": "2026-11-23T12:02:20Z",
+  "revision": "6698feac188f1b7ccd028965829d1d8fcb009097",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45170540904",
+  "title": "Place orphan and linked-only .data in their files: level lights, author strings, codec and camera records, SDK strings (lane C2, GN7E69-rev0) (#1407)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/6698feac188f1b7ccd028965829d1d8fcb009097"
  },
  "summary": {
   "code": {
@@ -26,16 +26,16 @@
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1135600.9615278,
-   "linked": 1103094,
-   "matched": 1126934,
+   "fuzzy": 1152527.9615278,
+   "linked": 1120021,
+   "matched": 1143861,
    "total": 1460833
   },
   "files": {
-   "closed": 775,
-   "exact": 839,
-   "named": 840,
-   "total": 988
+   "closed": 778,
+   "exact": 842,
+   "named": 843,
+   "total": 991
   },
   "functions": {
    "exact": 13438,
