@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "de783f012baee82f",
-  "history.json": "e7888409cb1568f2",
-  "map.json": "e854892fec655833"
+  "history.json": "34fe71109b79d139",
+  "map.json": "f21a5bb2155a1ddf"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-23T11:41:55Z",
+ "measuredAt": "2026-11-23T11:50:23Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-23T11:37:25Z",
-  "revision": "8031e68f01238041f4734427415d4f8ccf580708",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45166869557",
-  "title": "Place orphan .rodata/.ctors: discarded query pools of dbocmt.c, dboptions.c, dbuser.c and owner rows (lane C1, GN7E69-rev0) (#1409)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/8031e68f01238041f4734427415d4f8ccf580708"
+  "committedAt": "2026-11-23T11:47:06Z",
+  "revision": "48cc71183c9af8715327872285d287381755e729",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45168285487",
+  "title": "Place orphan and linked-only .bss/.sbss data: GXDisplayList.c, dsp_task.c, ai.c, Font.c, resstream.c, resloosefile.c, sort.c, tmmaterial.c, tmtexture.c, animcache.c, object.c (GN7E69-rev0) (#1408)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/48cc71183c9af8715327872285d287381755e729"
  },
  "summary": {
   "code": {
@@ -26,9 +26,9 @@
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1133329.9615278,
-   "linked": 1100823,
-   "matched": 1124663,
+   "fuzzy": 1135600.9615278,
+   "linked": 1103094,
+   "matched": 1126934,
    "total": 1460833
   },
   "files": {
