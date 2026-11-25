@@ -1,26 +1,26 @@
 {
  "digests": {
   "contributors.json": "86b20e8102e5457c",
-  "history.json": "923473a19f8054b6",
-  "map.json": "69fc342b0cfacb5b"
+  "history.json": "127670f2eecd13f1",
+  "map.json": "62b4ba399d2a74f7"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-25T10:05:18Z",
+ "measuredAt": "2026-11-25T23:04:50Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-25T10:01:52Z",
-  "revision": "8d4b158a8320a32db454e77c38a3d2036ad38aba",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45591033935",
-  "title": "Integrate #1415, #1421, #1424 and #1428: 3 files closed (GN7E69-rev0) (#1430)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/8d4b158a8320a32db454e77c38a3d2036ad38aba"
+  "committedAt": "2026-11-25T23:01:30Z",
+  "revision": "e95b251a1982b9138ebea253acdd22e10d51829d",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45718063912",
+  "title": "Improve partials: src/game/cu_8018C344.cpp cleanup loop and src/game/StoryTeamList.cpp (GN7E69-rev0) (#1436)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/e95b251a1982b9138ebea253acdd22e10d51829d"
  },
  "summary": {
   "code": {
-   "fuzzy": 2523859.720428232,
+   "fuzzy": 2523893.2404111917,
    "linked": 2073108,
    "matched": 2236128,
    "total": 2648352
