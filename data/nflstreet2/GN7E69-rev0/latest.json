@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "de783f012baee82f",
-  "history.json": "1c7d451c64ff6fa9",
-  "map.json": "a94c98f56614e54d"
+  "contributors.json": "86b20e8102e5457c",
+  "history.json": "923473a19f8054b6",
+  "map.json": "69fc342b0cfacb5b"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-23T12:19:32Z",
+ "measuredAt": "2026-11-25T10:05:18Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-23T12:15:14Z",
-  "revision": "e7948f922076da0f81abb88b6804f96cd704dbd3",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45172544766",
-  "title": "Place the StatGen.cpp .bss orphan: simulated-game record (GN7E69-rev0) (#1411)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/e7948f922076da0f81abb88b6804f96cd704dbd3"
+  "committedAt": "2026-11-25T10:01:52Z",
+  "revision": "8d4b158a8320a32db454e77c38a3d2036ad38aba",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45591033935",
+  "title": "Integrate #1415, #1421, #1424 and #1428: 3 files closed (GN7E69-rev0) (#1430)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/8d4b158a8320a32db454e77c38a3d2036ad38aba"
  },
  "summary": {
   "code": {
-   "fuzzy": 2521951.1603635116,
-   "linked": 2056940,
-   "matched": 2234728,
+   "fuzzy": 2523859.720428232,
+   "linked": 2073108,
+   "matched": 2236128,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1162883.9615278,
-   "linked": 1130377,
-   "matched": 1154217,
+   "fuzzy": 1166193.8874544,
+   "linked": 1133937,
+   "matched": 1157577,
    "total": 1460833
   },
   "files": {
-   "closed": 778,
-   "exact": 842,
-   "named": 843,
-   "total": 991
+   "closed": 781,
+   "exact": 853,
+   "named": 854,
+   "total": 999
   },
   "functions": {
-   "exact": 13438,
-   "named": 10539,
+   "exact": 13468,
+   "named": 10598,
    "total": 14157
   }
  },
