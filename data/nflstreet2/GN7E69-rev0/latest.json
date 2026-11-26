@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "c4e77dc42d48852e",
-  "history.json": "6b90474ba7cac824",
-  "map.json": "0642960059749075"
+  "contributors.json": "24cdaaab7b29b236",
+  "history.json": "d93100345accc212",
+  "map.json": "13ef51b7a278b8e8"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-26T09:44:33Z",
+ "measuredAt": "2026-11-26T10:55:05Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-26T09:41:25Z",
-  "revision": "ccc3d79c8c9786c6b1d757c3450c5fe1b5d70a89",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45794311223",
-  "title": "source_build: folded and global discarded functions in a holdouts unit, for src/game/MiniGames.cpp (GN7E69-rev0) (#1459)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/ccc3d79c8c9786c6b1d757c3450c5fe1b5d70a89"
+  "committedAt": "2026-11-26T10:51:24Z",
+  "revision": "a9e62e87ab76e7bf5bc62fa9b49583c6a5fe5409",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45805198219",
+  "title": "Link src/game/MiniGames.cpp with 16 holdouts (GN7E69-rev0) (#1460)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/a9e62e87ab76e7bf5bc62fa9b49583c6a5fe5409"
  },
  "summary": {
   "code": {
-   "fuzzy": 2547859.000506512,
-   "linked": 2167188,
-   "matched": 2275648,
+   "fuzzy": 2549510.8404862722,
+   "linked": 2217724,
+   "matched": 2280204,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1228922.18639,
-   "linked": 1198202,
-   "matched": 1210870,
+   "fuzzy": 1229410.1992428,
+   "linked": 1213814,
+   "matched": 1222370,
    "total": 1460833
   },
   "files": {
    "closed": 787,
-   "exact": 879,
-   "named": 880,
-   "total": 1015
+   "exact": 880,
+   "named": 881,
+   "total": 1016
   },
   "functions": {
-   "exact": 13567,
-   "named": 11010,
+   "exact": 13576,
+   "named": 11014,
    "total": 14155
   }
  },
