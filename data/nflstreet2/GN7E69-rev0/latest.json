@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "c4e77dc42d48852e",
-  "history.json": "3c21caf9d7ac5841",
+  "history.json": "6b90474ba7cac824",
   "map.json": "0642960059749075"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-26T09:11:25Z",
+ "measuredAt": "2026-11-26T09:44:33Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-26T09:08:06Z",
-  "revision": "a85684d2edb2d2f8d0630ff75d278327203f7a54",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45789159741",
-  "title": "Close files round 3, lane 5 (0x80140000-0x80190000): merge the mini-games chunk into src/game/MiniGames.cpp and name it (GN7E69-rev0) (#1448)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/a85684d2edb2d2f8d0630ff75d278327203f7a54"
+  "committedAt": "2026-11-26T09:41:25Z",
+  "revision": "ccc3d79c8c9786c6b1d757c3450c5fe1b5d70a89",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45794311223",
+  "title": "source_build: folded and global discarded functions in a holdouts unit, for src/game/MiniGames.cpp (GN7E69-rev0) (#1459)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/ccc3d79c8c9786c6b1d757c3450c5fe1b5d70a89"
  },
  "summary": {
   "code": {
