@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "d6574dda4a7df46d",
-  "history.json": "aa74925e2d9ab2d6",
-  "map.json": "61db555b9f9a6ac2"
+  "contributors.json": "65b2d27d7482726d",
+  "history.json": "51f811cc020a726b",
+  "map.json": "215594517ac62fd6"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-26T05:24:21Z",
+ "measuredAt": "2026-11-26T06:41:31Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-26T05:20:47Z",
-  "revision": "99089769a39cc56257b3620d47eb245c694dd30d",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45760989475",
-  "title": "Round 2 lane 6 (0x80190000-end): close rcmpbase.cpp, rcmp_mad_codec.cpp; link 10 files with holdouts (GN7E69-rev0) (#1442)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/99089769a39cc56257b3620d47eb245c694dd30d"
+  "committedAt": "2026-11-26T06:36:32Z",
+  "revision": "0d80eeee0c264f34d0af7b5185bf9fbd118c8546",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45769375224",
+  "title": "Close files round 2, lane 4 (0x800E0000-0x80140000): Assign.cpp, PlyrTackle.cpp (GN7E69-rev0) (#1438)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/0d80eeee0c264f34d0af7b5185bf9fbd118c8546"
  },
  "summary": {
   "code": {
-   "fuzzy": 2537509.600489952,
-   "linked": 2149628,
-   "matched": 2259436,
+   "fuzzy": 2537845.480452272,
+   "linked": 2152280,
+   "matched": 2262088,
    "total": 2648352
   },
   "data": {
@@ -38,7 +38,7 @@
    "total": 1013
   },
   "functions": {
-   "exact": 13527,
+   "exact": 13531,
    "named": 10772,
    "total": 14157
   }
