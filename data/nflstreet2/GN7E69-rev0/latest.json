@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "65b2d27d7482726d",
-  "history.json": "4487093abc7b24d8",
-  "map.json": "9f727b2be50db32d"
+  "contributors.json": "cb5b372f1bf63634",
+  "history.json": "8c0a2eebaf34cae1",
+  "map.json": "bceaf9bef2e925b0"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-26T06:45:56Z",
+ "measuredAt": "2026-11-26T07:00:23Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-26T06:42:28Z",
-  "revision": "7e5ee312a11c9345bdc8b2e59cd7b4a2adcd60cf",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45770062117",
-  "title": "Close files round 3, lane 1 (0x80000000-0x80040000): CreatePlayerShop.cpp (GN7E69-rev0) (#1450)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/7e5ee312a11c9345bdc8b2e59cd7b4a2adcd60cf"
+  "committedAt": "2026-11-26T06:55:40Z",
+  "revision": "5de23e204c02b9f63b49338e80443200c9e145f8",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45771604350",
+  "title": "Close files round 3, lane 2 (0x80040000-0x80080000): DynObj.cpp, four holdouts exact and linked (GN7E69-rev0) (#1451)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/5de23e204c02b9f63b49338e80443200c9e145f8"
  },
  "summary": {
   "code": {
-   "fuzzy": 2537845.480452272,
-   "linked": 2152280,
-   "matched": 2262088,
+   "fuzzy": 2538017.4805121124,
+   "linked": 2154564,
+   "matched": 2264372,
    "total": 2648352
   },
   "data": {
@@ -38,7 +38,7 @@
    "total": 1013
   },
   "functions": {
-   "exact": 13531,
+   "exact": 13535,
    "named": 10791,
    "total": 14157
   }
