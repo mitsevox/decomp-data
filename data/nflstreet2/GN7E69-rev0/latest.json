@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "18816b4fc4f76acb",
-  "history.json": "e645cca47b1d87f8",
-  "map.json": "c86628a5040f4b04"
+  "contributors.json": "7ea3b15506af84d3",
+  "history.json": "051b42a55d6ff13e",
+  "map.json": "ec12f94911a033d9"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-25T23:49:29Z",
+ "measuredAt": "2026-11-26T00:54:45Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-25T23:44:54Z",
-  "revision": "53bf968bb5525b927267a00bbf9ba48b9cbb758a",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45723706801",
-  "title": "Close files, lane 6 (0x80190000-end): IdctPairedSingle.c, ppcdown.c, yuvconv.c partial (GN7E69-rev0) (#1432)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/53bf968bb5525b927267a00bbf9ba48b9cbb758a"
+  "committedAt": "2026-11-26T00:50:10Z",
+  "revision": "9bd6f7c4a284c5731c610b25f9ad61c25877c3f1",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45731564400",
+  "title": "Integrate #1434: close crt0.c and PlyrMgr.cpp (GN7E69-rev0) (#1437)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/9bd6f7c4a284c5731c610b25f9ad61c25877c3f1"
  },
  "summary": {
   "code": {
-   "fuzzy": 2529906.240348632,
-   "linked": 2089576,
-   "matched": 2244892,
+   "fuzzy": 2530786.240340632,
+   "linked": 2090784,
+   "matched": 2246100,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1211741.8874512,
-   "linked": 1173610,
-   "matched": 1203394,
+   "fuzzy": 1211821.8874512,
+   "linked": 1173690,
+   "matched": 1203474,
    "total": 1460833
   },
   "files": {
-   "closed": 784,
-   "exact": 856,
-   "named": 857,
-   "total": 999
+   "closed": 786,
+   "exact": 857,
+   "named": 858,
+   "total": 998
   },
   "functions": {
-   "exact": 13484,
-   "named": 10664,
+   "exact": 13491,
+   "named": 10670,
    "total": 14157
   }
  },
