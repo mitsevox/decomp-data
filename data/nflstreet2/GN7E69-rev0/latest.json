@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "7ea3b15506af84d3",
-  "history.json": "db227eaecebf71fd",
-  "map.json": "bf0aa377be0e6489"
+  "contributors.json": "d0672614d7e7fbcc",
+  "history.json": "be477fe134961d4d",
+  "map.json": "a36d0a5826229cdd"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-26T03:48:59Z",
+ "measuredAt": "2026-11-26T03:53:00Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-26T03:45:38Z",
-  "revision": "f27d2fb6e13428c857d4a0d1221185c7ba2c3945",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45750962207",
-  "title": "Integrate #1439: link StoryTournament, GameOptions, GearDb and PlayerQuery around holdouts (GN7E69-rev0) (#1444)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/f27d2fb6e13428c857d4a0d1221185c7ba2c3945"
+  "committedAt": "2026-11-26T03:49:13Z",
+  "revision": "65fead0ca2cd93ea40775a0bdaa4d13766899542",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45751326320",
+  "title": "Close files round 2, lane 3: cu_8008E978.cpp holdouts, cu_80086C10.cpp and cu_800D760C.cpp linked with holdouts (GN7E69-rev0) (#1441)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/65fead0ca2cd93ea40775a0bdaa4d13766899542"
  },
  "summary": {
   "code": {
-   "fuzzy": 2531330.240340632,
-   "linked": 2100836,
-   "matched": 2246644,
+   "fuzzy": 2533883.080375832,
+   "linked": 2109632,
+   "matched": 2252216,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1211869.8874512,
-   "linked": 1175670,
-   "matched": 1203522,
+   "fuzzy": 1212115.705632,
+   "linked": 1177050,
+   "matched": 1203786,
    "total": 1460833
   },
   "files": {
    "closed": 786,
-   "exact": 860,
-   "named": 861,
-   "total": 1000
+   "exact": 862,
+   "named": 863,
+   "total": 1002
   },
   "functions": {
-   "exact": 13491,
-   "named": 10716,
+   "exact": 13495,
+   "named": 10720,
    "total": 14157
   }
  },
