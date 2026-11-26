@@ -1,45 +1,45 @@
 {
  "digests": {
   "contributors.json": "7ea3b15506af84d3",
-  "history.json": "051b42a55d6ff13e",
-  "map.json": "ec12f94911a033d9"
+  "history.json": "335ff032801936c9",
+  "map.json": "ace02d2426806f34"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-26T00:54:45Z",
+ "measuredAt": "2026-11-26T03:36:41Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-26T00:50:10Z",
-  "revision": "9bd6f7c4a284c5731c610b25f9ad61c25877c3f1",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45731564400",
-  "title": "Integrate #1434: close crt0.c and PlyrMgr.cpp (GN7E69-rev0) (#1437)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/9bd6f7c4a284c5731c610b25f9ad61c25877c3f1"
+  "committedAt": "2026-11-26T03:33:32Z",
+  "revision": "1b736ede6e6440a50cbf8ee87504214bedadf3e0",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45749689874",
+  "title": "Close files round 2, lane 1: StatGen.cpp query strings, MsgEATrax.cpp (was cu_8001F56C) (GN7E69-rev0) (#1443)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/1b736ede6e6440a50cbf8ee87504214bedadf3e0"
  },
  "summary": {
   "code": {
-   "fuzzy": 2530786.240340632,
-   "linked": 2090784,
-   "matched": 2246100,
+   "fuzzy": 2531330.240340632,
+   "linked": 2093280,
+   "matched": 2246644,
    "total": 2648352
   },
   "data": {
    "fuzzy": 1211821.8874512,
-   "linked": 1173690,
+   "linked": 1173698,
    "matched": 1203474,
    "total": 1460833
   },
   "files": {
    "closed": 786,
-   "exact": 857,
-   "named": 858,
+   "exact": 858,
+   "named": 859,
    "total": 998
   },
   "functions": {
    "exact": 13491,
-   "named": 10670,
+   "named": 10682,
    "total": 14157
   }
  },
