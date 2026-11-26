@@ -1,46 +1,46 @@
 {
  "digests": {
-  "contributors.json": "9a6fee01798f4d33",
-  "history.json": "af6ad0294ff849d1",
-  "map.json": "044373948aaa197b"
+  "contributors.json": "ddc709b1555abd4d",
+  "history.json": "d7ba5ccb699fdff9",
+  "map.json": "145eb919300aa510"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-26T07:09:44Z",
+ "measuredAt": "2026-11-26T07:44:52Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-26T07:06:13Z",
-  "revision": "83f5098b8faca03fd466d728bf7746bf3ddda8c2",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45772851147",
-  "title": "Integrate #1449: PlyrContactTryBreakTackle and PlayerActionAnimFindAlignTarget exact and linked (GN7E69-rev0) (#1454)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/83f5098b8faca03fd466d728bf7746bf3ddda8c2"
+  "committedAt": "2026-11-26T07:41:18Z",
+  "revision": "7a2dc864c0d1b1085789bdc0c7b428f51f01292a",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45777191385",
+  "title": "Close files round 3, lane 6 (0x80190000-end): llangle.c; link physbroadphase.cpp, Memory.c with holdouts (GN7E69-rev0) (#1452)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/7a2dc864c0d1b1085789bdc0c7b428f51f01292a"
  },
  "summary": {
   "code": {
-   "fuzzy": 2538043.920466232,
-   "linked": 2156288,
-   "matched": 2266096,
+   "fuzzy": 2541123.120443032,
+   "linked": 2167188,
+   "matched": 2268348,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1214660.82216816,
-   "linked": 1197938,
-   "matched": 1207110,
+   "fuzzy": 1214764.82216816,
+   "linked": 1198202,
+   "matched": 1207214,
    "total": 1460833
   },
   "files": {
-   "closed": 786,
-   "exact": 876,
-   "named": 877,
-   "total": 1013
+   "closed": 787,
+   "exact": 879,
+   "named": 880,
+   "total": 1016
   },
   "functions": {
-   "exact": 13537,
-   "named": 10792,
-   "total": 14157
+   "exact": 13540,
+   "named": 10853,
+   "total": 14155
   }
  },
  "target": "GN7E69-rev0",
