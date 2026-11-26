@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "ddc709b1555abd4d",
-  "history.json": "d7ba5ccb699fdff9",
-  "map.json": "145eb919300aa510"
+  "contributors.json": "c4e77dc42d48852e",
+  "history.json": "3c21caf9d7ac5841",
+  "map.json": "0642960059749075"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-26T07:44:52Z",
+ "measuredAt": "2026-11-26T09:11:25Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-26T07:41:18Z",
-  "revision": "7a2dc864c0d1b1085789bdc0c7b428f51f01292a",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45777191385",
-  "title": "Close files round 3, lane 6 (0x80190000-end): llangle.c; link physbroadphase.cpp, Memory.c with holdouts (GN7E69-rev0) (#1452)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/7a2dc864c0d1b1085789bdc0c7b428f51f01292a"
+  "committedAt": "2026-11-26T09:08:06Z",
+  "revision": "a85684d2edb2d2f8d0630ff75d278327203f7a54",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45789159741",
+  "title": "Close files round 3, lane 5 (0x80140000-0x80190000): merge the mini-games chunk into src/game/MiniGames.cpp and name it (GN7E69-rev0) (#1448)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/a85684d2edb2d2f8d0630ff75d278327203f7a54"
  },
  "summary": {
   "code": {
-   "fuzzy": 2541123.120443032,
+   "fuzzy": 2547859.000506512,
    "linked": 2167188,
-   "matched": 2268348,
+   "matched": 2275648,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1214764.82216816,
+   "fuzzy": 1228922.18639,
    "linked": 1198202,
-   "matched": 1207214,
+   "matched": 1210870,
    "total": 1460833
   },
   "files": {
    "closed": 787,
    "exact": 879,
    "named": 880,
-   "total": 1016
+   "total": 1015
   },
   "functions": {
-   "exact": 13540,
-   "named": 10853,
+   "exact": 13567,
+   "named": 11010,
    "total": 14155
   }
  },
