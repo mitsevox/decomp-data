@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "cb5b372f1bf63634",
-  "history.json": "8c0a2eebaf34cae1",
-  "map.json": "bceaf9bef2e925b0"
+  "contributors.json": "9a6fee01798f4d33",
+  "history.json": "af6ad0294ff849d1",
+  "map.json": "044373948aaa197b"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-26T07:00:23Z",
+ "measuredAt": "2026-11-26T07:09:44Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-26T06:55:40Z",
-  "revision": "5de23e204c02b9f63b49338e80443200c9e145f8",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45771604350",
-  "title": "Close files round 3, lane 2 (0x80040000-0x80080000): DynObj.cpp, four holdouts exact and linked (GN7E69-rev0) (#1451)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/5de23e204c02b9f63b49338e80443200c9e145f8"
+  "committedAt": "2026-11-26T07:06:13Z",
+  "revision": "83f5098b8faca03fd466d728bf7746bf3ddda8c2",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45772851147",
+  "title": "Integrate #1449: PlyrContactTryBreakTackle and PlayerActionAnimFindAlignTarget exact and linked (GN7E69-rev0) (#1454)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/83f5098b8faca03fd466d728bf7746bf3ddda8c2"
  },
  "summary": {
   "code": {
-   "fuzzy": 2538017.4805121124,
-   "linked": 2154564,
-   "matched": 2264372,
+   "fuzzy": 2538043.920466232,
+   "linked": 2156288,
+   "matched": 2266096,
    "total": 2648352
   },
   "data": {
@@ -38,8 +38,8 @@
    "total": 1013
   },
   "functions": {
-   "exact": 13535,
-   "named": 10791,
+   "exact": 13537,
+   "named": 10792,
    "total": 14157
   }
  },
