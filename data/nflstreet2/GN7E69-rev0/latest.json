@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "91fea1c8dfe8fef4",
-  "history.json": "6084a2333f5eaa02",
-  "map.json": "44a4a4fb611fdb06"
+  "contributors.json": "d147a885e6309571",
+  "history.json": "0ec9ce35e67bad76",
+  "map.json": "282e707637d51f22"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T20:10:56Z",
+ "measuredAt": "2026-11-27T20:16:02Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T20:06:02Z",
-  "revision": "ad6b43f1fd2c4dd5aaf8d05be2cd4ba065a73eda",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46061277119",
-  "title": "Close holdouts round 4 lane 7 (0x801F0000-0x80260000): dbsrpt.c, dboccp.c, xmlread.c, dbyalp.c, uigtext.c (GN7E69-rev0) (#1513)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/ad6b43f1fd2c4dd5aaf8d05be2cd4ba065a73eda"
+  "committedAt": "2026-11-27T20:12:27Z",
+  "revision": "2c1eb4916a9c5efb051925a05244c54cf655672f",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46062029282",
+  "title": "Close holdouts round 4 lane 5: spchpick.c, pathvol.c, pathnode.c +12 exact; speech, path, render and anim holdouts (GN7E69-rev0) (#1511)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/2c1eb4916a9c5efb051925a05244c54cf655672f"
  },
  "summary": {
   "code": {
-   "fuzzy": 2622482.9997652313,
-   "linked": 2318960,
-   "matched": 2351316,
+   "fuzzy": 2622701.4397756313,
+   "linked": 2321660,
+   "matched": 2354016,
    "total": 2648352
   },
   "data": {
@@ -38,8 +38,8 @@
    "total": 1049
   },
   "functions": {
-   "exact": 13737,
-   "named": 11825,
+   "exact": 13749,
+   "named": 11826,
    "total": 14155
   }
  },
