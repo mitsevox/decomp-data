@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "f91db235a9598ab3",
-  "history.json": "af2c0ee1f98477c0",
-  "map.json": "5693fd4b056b49f0"
+  "contributors.json": "f43f4e3156376e50",
+  "history.json": "0f789c4dd449eb6e",
+  "map.json": "d16c909607e178b4"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T19:15:00Z",
+ "measuredAt": "2026-11-27T19:34:05Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T19:11:24Z",
-  "revision": "40ea162a505f242e53fadbdaff715a177d65078e",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46054932791",
-  "title": "source_build: fold a global duplicate into another file's kept definition, for src/engine/phystime.cpp (GN7E69-rev0) (#1502)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/40ea162a505f242e53fadbdaff715a177d65078e"
+  "committedAt": "2026-11-27T19:29:04Z",
+  "revision": "7a48bc5424813b7a916998be950bf3c73adcbb7b",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46057010587",
+  "title": "Link and close src/engine/phystime.cpp with its global folds (GN7E69-rev0) (#1512)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/7a48bc5424813b7a916998be950bf3c73adcbb7b"
  },
  "summary": {
   "code": {
-   "fuzzy": 2620909.9199062726,
-   "linked": 2309516,
-   "matched": 2341372,
+   "fuzzy": 2621305.9199062726,
+   "linked": 2309912,
+   "matched": 2341768,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1358883.1122844,
-   "linked": 1349549,
-   "matched": 1351749,
+   "fuzzy": 1358987.1122844,
+   "linked": 1349653,
+   "matched": 1351853,
    "total": 1460833
   },
   "files": {
-   "closed": 802,
-   "exact": 912,
-   "named": 913,
+   "closed": 803,
+   "exact": 913,
+   "named": 914,
    "total": 1050
   },
   "functions": {
-   "exact": 13720,
-   "named": 11759,
+   "exact": 13724,
+   "named": 11762,
    "total": 14155
   }
  },
