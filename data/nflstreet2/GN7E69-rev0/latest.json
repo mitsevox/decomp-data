@@ -1,45 +1,45 @@
 {
  "digests": {
-  "contributors.json": "adbd5bff496ea0b7",
-  "history.json": "48ea7b6fd7afcf9f",
-  "map.json": "26f0a59bf61e5880"
+  "contributors.json": "d27de309be03dce3",
+  "history.json": "c7d57ef163e1aaca",
+  "map.json": "18fd03aef44577db"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T22:30:18Z",
+ "measuredAt": "2026-11-27T22:39:18Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T22:26:21Z",
-  "revision": "641653747612fe489754f0fb73e2905a01b4169a",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46076649836",
-  "title": "pathtrack.c: name the IPathTrack virtual slots in pathlib.h and close the file (GN7E69-rev0) (#1526)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/641653747612fe489754f0fb73e2905a01b4169a"
+  "committedAt": "2026-11-27T22:35:03Z",
+  "revision": "0083abca7cccc4a6849bf44248d4601e7a8f72a7",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46077537007",
+  "title": "Close holdouts round 5 lane 4 (0x801F0000-0x80260000): dbyalp.c, dboccp.c, T3DB, rescache, stream, UIStudio, uig* (GN7E69-rev0) (#1520)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/0083abca7cccc4a6849bf44248d4601e7a8f72a7"
  },
  "summary": {
   "code": {
-   "fuzzy": 2627544.8802513513,
-   "linked": 2364716,
-   "matched": 2375324,
+   "fuzzy": 2628043.680505872,
+   "linked": 2373248,
+   "matched": 2385200,
    "total": 2648352
   },
   "data": {
-   "fuzzy": 1373589.1130416,
-   "linked": 1372445,
-   "matched": 1373417,
+   "fuzzy": 1375655.2,
+   "linked": 1374605,
+   "matched": 1375577,
    "total": 1460833
   },
   "files": {
-   "closed": 813,
-   "exact": 923,
-   "named": 924,
-   "total": 1054
+   "closed": 815,
+   "exact": 924,
+   "named": 925,
+   "total": 1053
   },
   "functions": {
-   "exact": 13805,
-   "named": 12399,
+   "exact": 13820,
+   "named": 12407,
    "total": 14155
   }
  },
