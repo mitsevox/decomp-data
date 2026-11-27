@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "788e4cbd9840adca",
-  "history.json": "c83123ab5297d4d0",
-  "map.json": "1833ec9c72c94026"
+  "contributors.json": "76a720010a093d48",
+  "history.json": "38b72342fd43d069",
+  "map.json": "9cda5f88c2a17b5e"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T08:57:59Z",
+ "measuredAt": "2026-11-27T09:44:23Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T08:53:56Z",
-  "revision": "c2132e3128ece9257c6875a1535ee4dbb01480aa",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45969261132",
-  "title": "Holdouts lane 3 (0x80210000-end): UIStudio.c, xmlread.c, lllight.c, sound files (GN7E69-rev0) (#1498)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/c2132e3128ece9257c6875a1535ee4dbb01480aa"
+  "committedAt": "2026-11-27T09:40:24Z",
+  "revision": "5868f4a31b1c65638b6ce9615ac6ce42fdeeade8",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45975662601",
+  "title": "Close holdouts lane 1: PlaDynClutOps.cpp, pathtrack.c, bitstream.cpp and 10 more holdout files (GN7E69-rev0) (#1499)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/5868f4a31b1c65638b6ce9615ac6ce42fdeeade8"
  },
  "summary": {
   "code": {
-   "fuzzy": 2619829.1200330723,
-   "linked": 2303536,
-   "matched": 2335056,
+   "fuzzy": 2620287.0000333125,
+   "linked": 2306840,
+   "matched": 2338696,
    "total": 2648352
   },
   "data": {
@@ -32,13 +32,13 @@
    "total": 1460833
   },
   "files": {
-   "closed": 800,
+   "closed": 801,
    "exact": 912,
    "named": 913,
-   "total": 1052
+   "total": 1051
   },
   "functions": {
-   "exact": 13705,
+   "exact": 13713,
    "named": 11759,
    "total": 14155
   }
