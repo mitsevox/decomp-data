@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "79c2f08acb9a1414",
-  "history.json": "26b135390f90bb34",
-  "map.json": "b69d16b59da5c03d"
+  "contributors.json": "ed0def21c7c0f6fa",
+  "history.json": "d0e936854bd2826c",
+  "map.json": "efd6614f6715f31e"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T22:59:12Z",
+ "measuredAt": "2026-11-27T23:09:02Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T22:55:35Z",
-  "revision": "3e5d9f82386ad36c53caf2cb284585df5313b251",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46079531239",
-  "title": "Round 6 lane 6 (0x801F0000-0x80260000): UIStudio.c PatchScrData and _ParseVisibility exact, holdout second pass (GN7E69-rev0) (#1533)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/3e5d9f82386ad36c53caf2cb284585df5313b251"
+  "committedAt": "2026-11-27T23:05:19Z",
+  "revision": "d3cbb54433455e4b377cfb3ffe7a3e163497447c",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46080477464",
+  "title": "pathvol.c, pathaction.c: fade ticks and PATHI_getvalue exact, close pathvol.c (GN7E69-rev0) (#1536)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/d3cbb54433455e4b377cfb3ffe7a3e163497447c"
  },
  "summary": {
   "code": {
-   "fuzzy": 2629674.2805542713,
-   "linked": 2374336,
-   "matched": 2386288,
+   "fuzzy": 2629748.800505231,
+   "linked": 2377132,
+   "matched": 2389084,
    "total": 2648352
   },
   "data": {
@@ -32,13 +32,13 @@
    "total": 1460833
   },
   "files": {
-   "closed": 815,
+   "closed": 816,
    "exact": 924,
    "named": 925,
-   "total": 1053
+   "total": 1052
   },
   "functions": {
-   "exact": 13822,
+   "exact": 13826,
    "named": 12407,
    "total": 14155
   }
