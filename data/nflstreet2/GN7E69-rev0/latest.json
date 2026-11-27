@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "f3ebfd7d190c7fdf",
-  "history.json": "df755ce5d80cdbc4",
-  "map.json": "8d07fefef70b9505"
+  "contributors.json": "91fea1c8dfe8fef4",
+  "history.json": "6084a2333f5eaa02",
+  "map.json": "44a4a4fb611fdb06"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T20:02:51Z",
+ "measuredAt": "2026-11-27T20:10:56Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T19:57:50Z",
-  "revision": "aa325d5e9d96b16f08d19a4c22d22bd3c9b7e415",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46060323060",
-  "title": "Close holdouts round 4 lane 6 (0x801C0000-0x801F0000): name charik.c (was cu_801C3EFC.c) and memcardmgr.c, holdout pass (GN7E69-rev0) (#1505)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/aa325d5e9d96b16f08d19a4c22d22bd3c9b7e415"
+  "committedAt": "2026-11-27T20:06:02Z",
+  "revision": "ad6b43f1fd2c4dd5aaf8d05be2cd4ba065a73eda",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46061277119",
+  "title": "Close holdouts round 4 lane 7 (0x801F0000-0x80260000): dbsrpt.c, dboccp.c, xmlread.c, dbyalp.c, uigtext.c (GN7E69-rev0) (#1513)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/ad6b43f1fd2c4dd5aaf8d05be2cd4ba065a73eda"
  },
  "summary": {
   "code": {
-   "fuzzy": 2621730.439832352,
-   "linked": 2317208,
-   "matched": 2349064,
+   "fuzzy": 2622482.9997652313,
+   "linked": 2318960,
+   "matched": 2351316,
    "total": 2648352
   },
   "data": {
@@ -32,13 +32,13 @@
    "total": 1460833
   },
   "files": {
-   "closed": 804,
+   "closed": 805,
    "exact": 914,
    "named": 915,
-   "total": 1050
+   "total": 1049
   },
   "functions": {
-   "exact": 13732,
+   "exact": 13737,
    "named": 11825,
    "total": 14155
   }
