@@ -1,26 +1,26 @@
 {
  "digests": {
   "contributors.json": "f3ebfd7d190c7fdf",
-  "history.json": "3f671dcde1938997",
-  "map.json": "789b4469b0cc905b"
+  "history.json": "df755ce5d80cdbc4",
+  "map.json": "8d07fefef70b9505"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T19:55:00Z",
+ "measuredAt": "2026-11-27T20:02:51Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T19:51:07Z",
-  "revision": "5159f98e19c0709012642d34c236a6b5b4e39a66",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46059572423",
-  "title": "Close holdouts round 4 lane 4: PlayerActionAnim.cpp, PlyrTackle.cpp, camplay.cpp and 10 more holdout files (GN7E69-rev0) (#1514)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/5159f98e19c0709012642d34c236a6b5b4e39a66"
+  "committedAt": "2026-11-27T19:57:50Z",
+  "revision": "aa325d5e9d96b16f08d19a4c22d22bd3c9b7e415",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46060323060",
+  "title": "Close holdouts round 4 lane 6 (0x801C0000-0x801F0000): name charik.c (was cu_801C3EFC.c) and memcardmgr.c, holdout pass (GN7E69-rev0) (#1505)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/aa325d5e9d96b16f08d19a4c22d22bd3c9b7e415"
  },
  "summary": {
   "code": {
-   "fuzzy": 2621725.239834912,
+   "fuzzy": 2621730.439832352,
    "linked": 2317208,
    "matched": 2349064,
    "total": 2648352
@@ -39,7 +39,7 @@
   },
   "functions": {
    "exact": 13732,
-   "named": 11762,
+   "named": 11825,
    "total": 14155
   }
  },
