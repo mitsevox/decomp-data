@@ -1,22 +1,22 @@
 {
  "digests": {
   "contributors.json": "f91db235a9598ab3",
-  "history.json": "28f03ba4bb831023",
+  "history.json": "af2c0ee1f98477c0",
   "map.json": "5693fd4b056b49f0"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T10:01:37Z",
+ "measuredAt": "2026-11-27T19:15:00Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T09:57:57Z",
-  "revision": "d4ae155b16c1806690b9ad58774376b0710fb9d8",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45978075698",
-  "title": "Land #1500 on current main: close-holdouts lane 2, colorRamp.c closed (GN7E69-rev0) (#1501)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/d4ae155b16c1806690b9ad58774376b0710fb9d8"
+  "committedAt": "2026-11-27T19:11:24Z",
+  "revision": "40ea162a505f242e53fadbdaff715a177d65078e",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46054932791",
+  "title": "source_build: fold a global duplicate into another file's kept definition, for src/engine/phystime.cpp (GN7E69-rev0) (#1502)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/40ea162a505f242e53fadbdaff715a177d65078e"
  },
  "summary": {
   "code": {
