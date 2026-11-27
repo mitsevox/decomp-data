@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "76a720010a093d48",
-  "history.json": "38b72342fd43d069",
-  "map.json": "9cda5f88c2a17b5e"
+  "contributors.json": "f91db235a9598ab3",
+  "history.json": "28f03ba4bb831023",
+  "map.json": "5693fd4b056b49f0"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T09:44:23Z",
+ "measuredAt": "2026-11-27T10:01:37Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T09:40:24Z",
-  "revision": "5868f4a31b1c65638b6ce9615ac6ce42fdeeade8",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45975662601",
-  "title": "Close holdouts lane 1: PlaDynClutOps.cpp, pathtrack.c, bitstream.cpp and 10 more holdout files (GN7E69-rev0) (#1499)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/5868f4a31b1c65638b6ce9615ac6ce42fdeeade8"
+  "committedAt": "2026-11-27T09:57:57Z",
+  "revision": "d4ae155b16c1806690b9ad58774376b0710fb9d8",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45978075698",
+  "title": "Land #1500 on current main: close-holdouts lane 2, colorRamp.c closed (GN7E69-rev0) (#1501)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/d4ae155b16c1806690b9ad58774376b0710fb9d8"
  },
  "summary": {
   "code": {
-   "fuzzy": 2620287.0000333125,
-   "linked": 2306840,
-   "matched": 2338696,
+   "fuzzy": 2620909.9199062726,
+   "linked": 2309516,
+   "matched": 2341372,
    "total": 2648352
   },
   "data": {
@@ -32,13 +32,13 @@
    "total": 1460833
   },
   "files": {
-   "closed": 801,
+   "closed": 802,
    "exact": 912,
    "named": 913,
-   "total": 1051
+   "total": 1050
   },
   "functions": {
-   "exact": 13713,
+   "exact": 13720,
    "named": 11759,
    "total": 14155
   }
