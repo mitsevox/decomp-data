@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "a3c093703c1fb655",
-  "history.json": "e0f07d83f3f1199c",
-  "map.json": "3bfa78fd24c69b71"
+  "contributors.json": "788e4cbd9840adca",
+  "history.json": "c83123ab5297d4d0",
+  "map.json": "1833ec9c72c94026"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T08:05:50Z",
+ "measuredAt": "2026-11-27T08:57:59Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T08:02:01Z",
-  "revision": "659a2714dd878a6d2cc7e2cbbf2c61878fb0e76b",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45962588782",
-  "title": "Integrate 37 reviewed close-files PRs (#1445, #1447, #1455-#1491) (GN7E69-rev0) (#1497)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/659a2714dd878a6d2cc7e2cbbf2c61878fb0e76b"
+  "committedAt": "2026-11-27T08:53:56Z",
+  "revision": "c2132e3128ece9257c6875a1535ee4dbb01480aa",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/45969261132",
+  "title": "Holdouts lane 3 (0x80210000-end): UIStudio.c, xmlread.c, lllight.c, sound files (GN7E69-rev0) (#1498)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/c2132e3128ece9257c6875a1535ee4dbb01480aa"
  },
  "summary": {
   "code": {
-   "fuzzy": 2619823.9200298726,
-   "linked": 2303368,
-   "matched": 2334888,
+   "fuzzy": 2619829.1200330723,
+   "linked": 2303536,
+   "matched": 2335056,
    "total": 2648352
   },
   "data": {
@@ -38,7 +38,7 @@
    "total": 1052
   },
   "functions": {
-   "exact": 13704,
+   "exact": 13705,
    "named": 11759,
    "total": 14155
   }
