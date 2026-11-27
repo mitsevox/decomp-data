@@ -1,44 +1,44 @@
 {
  "digests": {
-  "contributors.json": "f43f4e3156376e50",
-  "history.json": "0f789c4dd449eb6e",
-  "map.json": "d16c909607e178b4"
+  "contributors.json": "d3e1f1dd355d77ee",
+  "history.json": "2f3a4e398e08a1bb",
+  "map.json": "a1a9e761271edd65"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T19:34:05Z",
+ "measuredAt": "2026-11-27T19:43:17Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T19:29:04Z",
-  "revision": "7a48bc5424813b7a916998be950bf3c73adcbb7b",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46057010587",
-  "title": "Link and close src/engine/phystime.cpp with its global folds (GN7E69-rev0) (#1512)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/7a48bc5424813b7a916998be950bf3c73adcbb7b"
+  "committedAt": "2026-11-27T19:39:10Z",
+  "revision": "a8547ee6c8056aaba6e916597cb1e3ccd47cf337",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46058206315",
+  "title": "Close holdouts round 4 lane 3: CollideSegment.cpp closed, forms recorded for StoreDb.cpp and PlyrObjs.cpp (GN7E69-rev0) (#1517)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/a8547ee6c8056aaba6e916597cb1e3ccd47cf337"
  },
  "summary": {
   "code": {
-   "fuzzy": 2621305.9199062726,
-   "linked": 2309912,
-   "matched": 2341768,
+   "fuzzy": 2621480.239934272,
+   "linked": 2310732,
+   "matched": 2342588,
    "total": 2648352
   },
   "data": {
    "fuzzy": 1358987.1122844,
-   "linked": 1349653,
+   "linked": 1349669,
    "matched": 1351853,
    "total": 1460833
   },
   "files": {
-   "closed": 803,
-   "exact": 913,
-   "named": 914,
+   "closed": 804,
+   "exact": 914,
+   "named": 915,
    "total": 1050
   },
   "functions": {
-   "exact": 13724,
+   "exact": 13725,
    "named": 11762,
    "total": 14155
   }
