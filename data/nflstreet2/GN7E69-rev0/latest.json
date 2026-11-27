@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "ed0def21c7c0f6fa",
-  "history.json": "d0e936854bd2826c",
-  "map.json": "efd6614f6715f31e"
+  "contributors.json": "70567f832dccdbe5",
+  "history.json": "b7cfb11f06d83e3f",
+  "map.json": "5b9d2fd01ad0a3f3"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T23:09:02Z",
+ "measuredAt": "2026-11-27T23:19:16Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T23:05:19Z",
-  "revision": "d3cbb54433455e4b377cfb3ffe7a3e163497447c",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46080477464",
-  "title": "pathvol.c, pathaction.c: fade ticks and PATHI_getvalue exact, close pathvol.c (GN7E69-rev0) (#1536)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/d3cbb54433455e4b377cfb3ffe7a3e163497447c"
+  "committedAt": "2026-11-27T23:15:36Z",
+  "revision": "80a4c17560b25f72d7d4d482e68bed3cb525c42a",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46081483565",
+  "title": "PlaModel.cpp (was cu_8015D3EC.cpp): name the player model loading file, its free functions, labels and types; try its 5 holdouts (GN7E69-rev0) (#1527)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/80a4c17560b25f72d7d4d482e68bed3cb525c42a"
  },
  "summary": {
   "code": {
-   "fuzzy": 2629748.800505231,
-   "linked": 2377132,
-   "matched": 2389084,
+   "fuzzy": 2630248.4404555196,
+   "linked": 2378004,
+   "matched": 2389956,
    "total": 2648352
   },
   "data": {
@@ -38,8 +38,8 @@
    "total": 1052
   },
   "functions": {
-   "exact": 13826,
-   "named": 12407,
+   "exact": 13829,
+   "named": 12448,
    "total": 14155
   }
  },
