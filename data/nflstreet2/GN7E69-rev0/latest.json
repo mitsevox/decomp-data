@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "d27de309be03dce3",
-  "history.json": "c7d57ef163e1aaca",
-  "map.json": "18fd03aef44577db"
+  "contributors.json": "79c2f08acb9a1414",
+  "history.json": "26b135390f90bb34",
+  "map.json": "b69d16b59da5c03d"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-27T22:39:18Z",
+ "measuredAt": "2026-11-27T22:59:12Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-27T22:35:03Z",
-  "revision": "0083abca7cccc4a6849bf44248d4601e7a8f72a7",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46077537007",
-  "title": "Close holdouts round 5 lane 4 (0x801F0000-0x80260000): dbyalp.c, dboccp.c, T3DB, rescache, stream, UIStudio, uig* (GN7E69-rev0) (#1520)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/0083abca7cccc4a6849bf44248d4601e7a8f72a7"
+  "committedAt": "2026-11-27T22:55:35Z",
+  "revision": "3e5d9f82386ad36c53caf2cb284585df5313b251",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46079531239",
+  "title": "Round 6 lane 6 (0x801F0000-0x80260000): UIStudio.c PatchScrData and _ParseVisibility exact, holdout second pass (GN7E69-rev0) (#1533)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/3e5d9f82386ad36c53caf2cb284585df5313b251"
  },
  "summary": {
   "code": {
-   "fuzzy": 2628043.680505872,
-   "linked": 2373248,
-   "matched": 2385200,
+   "fuzzy": 2629674.2805542713,
+   "linked": 2374336,
+   "matched": 2386288,
    "total": 2648352
   },
   "data": {
@@ -38,7 +38,7 @@
    "total": 1053
   },
   "functions": {
-   "exact": 13820,
+   "exact": 13822,
    "named": 12407,
    "total": 14155
   }
