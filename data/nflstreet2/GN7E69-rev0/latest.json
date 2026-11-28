@@ -1,28 +1,28 @@
 {
  "digests": {
-  "contributors.json": "6a0d26d83406d16f",
-  "history.json": "65394cc0cb8cadf5",
-  "map.json": "a6356cce0996b7d7"
+  "contributors.json": "514d6404f5c8dc70",
+  "history.json": "0d3984b6ac5e7955",
+  "map.json": "26c88c47d0a5cb43"
  },
  "game": "nflstreet2",
- "measuredAt": "2026-11-28T00:08:33Z",
+ "measuredAt": "2026-11-28T00:24:29Z",
  "modules": {
   "contributors": "contributors.json",
   "map": "map.json"
  },
  "schema": 1,
  "source": {
-  "committedAt": "2026-11-28T00:04:48Z",
-  "revision": "3d899907872ef532659328fec4934a71734b6236",
-  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46085951243",
-  "title": "cu_8008E978.cpp second half (0x800AF000-0x800CF84C): naming, split research, holdouts (GN7E69-rev0) (#1508)",
-  "url": "https://github.com/mitsevox/nflstreet2/commit/3d899907872ef532659328fec4934a71734b6236"
+  "committedAt": "2026-11-28T00:20:44Z",
+  "revision": "fbb4ea920d082cc7fd607540932d3ec65437b784",
+  "runUrl": "https://github.com/mitsevox/nflstreet2/actions/runs/46087387376",
+  "title": "Close holdouts round 6 lane 2 (0x80000000-0x80060000): InGameModules.cpp names, InGameScreens, MsgFrontEnd, MsgEATrax +7 exact (GN7E69-rev0) (#1531)",
+  "url": "https://github.com/mitsevox/nflstreet2/commit/fbb4ea920d082cc7fd607540932d3ec65437b784"
  },
  "summary": {
   "code": {
-   "fuzzy": 2633249.1204784396,
-   "linked": 2393912,
-   "matched": 2402212,
+   "fuzzy": 2633490.7204737994,
+   "linked": 2396328,
+   "matched": 2404628,
    "total": 2648352
   },
   "data": {
@@ -38,8 +38,8 @@
    "total": 1047
   },
   "functions": {
-   "exact": 13854,
-   "named": 12928,
+   "exact": 13861,
+   "named": 12929,
    "total": 14155
   }
  },
